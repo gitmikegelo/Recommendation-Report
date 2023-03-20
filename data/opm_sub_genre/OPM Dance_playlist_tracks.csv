@@ -1,0 +1,886 @@
+track_id,name,popularity,duration_ms,artist_id,artist_name,num_artists,playlist_id,playlist_name
+3Rdz3JsgglGWk4GW0J9tlz,Angels Crying,46,230773,53I4RAzuXWvaO1vzrCBJbD,E-Type,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5LJN5trTe8v9XRLvqi9SUl,Doodah - Radio 'N' Roll Mix,44,193280,6eKJWEzLZq8jZix8hdYsv4,Cartoons,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7kz6GbFr2MCI7PgXJOdq8c,Barbie Girl,0,194040,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2Ld2LehpgQNREMxl9LlIzm,"Boom, Boom, Boom, Boom!!",38,202583,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,81,173026,0uq5PttqEjj3IH1bzwcrXF,Spice Girls,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+43rNJ0jpFNSQU4XwoFmxOx,Believe,0,238693,72OaDtakiy6yFqkt4TsiFt,Cher,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5FgtdSf7I5lClThz2ptWvl,Blue (Da Ba Dee),0,283747,64rxQRJsLgZwHHyWKB8fiF,Eiffel 65,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4RwIkzRJEk1pPVsyd592tc,MMMBop,0,237453,0SdiiPkr02EUdekHZJkt58,Hanson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1fn6EFBBNiDVhL3DxDDJTD,Bring It All Back,0,213600,1kM5rgJvkiDMOoKX56H6pX,S Club 7,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+68C7Q9IW70v5uaXSXyWVm3,The Sign,0,189786,5ksRONqssB7BR161NTtJAm,Ace of Base,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5YScXJKtefsgdskIy60N7A,Tubthumping,63,278960,0TcYeHEK9sBtv7xPbKhzHz,Chumbawamba,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4PifbP29I4IF0I437LTMW3,All That She Wants,0,213040,5ksRONqssB7BR161NTtJAm,Ace of Base,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5CMoHjVSB0aHxbhrWvpdUQ,Saturday Night - Radio Edit,0,223909,0lHoDF96DNKSIcIpcOfMnq,Whigfield,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+11d9oUiwHuYt216EFA2tiz,Ice Ice Baby,65,271466,7GXXMm3DB1VswVcuGyInUd,Vanilla Ice,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6qNQcYitWE3mY2WDaTv6Kc,Caribbean Blue,56,240373,6uothxMWeLWIhsGeF7cyo4,Enya,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+12qZHAeOyTf93YAWvGDTat,All The Small Things,0,168000,6FBDaR13swtiWwGhX1WQsP,blink-182,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1GrikfH0jDejDvrxo84n4P,Together Again,67,301200,4qwGe91Bz9K2T8jXTZ815W,Janet Jackson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+75CgD6l7K4qMzZrn4CbZqz,Stars,69,248599,1fa0cOhromAZdq2xRA4vv8,Simply Red,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5IFCyWplye09HytIP80RCF,Too Close,67,259440,2MGT7CYlixSPxAnnkhLpaA,Next,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6Sy9BUbgFse0n0LPA5lwy5,Sandstorm,71,225493,0LhHRmSd1EYM5QdNeNnCoQ,Darude,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+40oiaDiyaFYGVWyf19uzFE,Horny - Horny '98 Radio Edit,0,187706,1MNmrXd8XDYuWog2vPReFK,Mousse T. Vs Hot 'n' Juicy,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2LjiPAQOVazT8sRyXL3XRs,Informer,64,268910,3uZFBSsMiooimnprFL9jD1,Snow,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1hRXxmgpkhsNI5UE9HNYzJ,Shy Guy,0,258906,221iMiF62DFPnVuCLJakP1,Diana King,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6CNUTHuYd8z3d1MZaJqoZL,2 Times - Original Edit Mix/Radio Edit,0,228293,1EN7GOzx8aDpiIbVVmQaaC,Ann Lee,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2bBleTRuM2eXJj7oyw8f3C,"Finally (7"" Choice Mix)",0,249319,5UoVLCWzOKMIJ9iioof9OD,CeCe Peniston,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7bEs1F6R36Qn1NVUHAyIP0,What a Girl Wants,0,215120,1l7ZsJRRS8wlW3WfJfPfNS,Christina Aguilera,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0i69ZiWitf3SFiaTA8249M,Smooth,0,298066,"['6GI52t8N5F02MxU0g5U69P', '3aBkeBhwadnWMWoVJ2CxJC']","['Santana', 'Rob Thomas']",2,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0jYdu2jAkawbC9dW6ltQMq,In The Summertime (feat. Rayvon),0,226733,"['5EvFsr3kj42KNv97ZEnqij', '4hB4SmzreXMTGWYj7KQ7QN']","['Shaggy', 'Rayvon']",2,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2MBDhtcF0Iudeib0J4HWYr,Party Up (Up In Here) - Album Version (Explicit) (Source),0,277533,1HwM5zlC5qNWhJtM00yXzG,DMX,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+77j9HOrxUpWcjwra9jgvio,We like to Party! (The Vengabus) Six Flags,33,222458,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4ePP9So5xRzspjLFVVbj90,Two Princes,71,256348,2PSiyldxmJze7xiqbz658m,Spin Doctors,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+33Mh4gZR7ApFS5VYlRqqEN,My Boo - Hitman's Club Mix,22,346853,4JbmXqez7WvTggoxn3UpVT,Ghost Town DJs,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4936whFdmf2yCzYT7IXqQV,Do You Think You're Better off Alone,0,229786,5CXZqE5ZqN7U0kFhlnRPzj,The Chemical,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5eveJJZz6aIEJ9pO0UoY6o,I'm Too Sexy for My Shirt,0,171727,45eaQZbcE7qBQOD9jQcp2X,Dragstei,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+42nSaPdT6g3ZIMHmKLlP2p,Let's Get Loud,68,239400,2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+614p7Xf0bSqq1KD7lOktls,2 Times - Original,0,230933,1EN7GOzx8aDpiIbVVmQaaC,Ann Lee,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1GwdUrz7DujSedNxnzVfqI,Beautiful Life,0,219306,5ksRONqssB7BR161NTtJAm,Ace of Base,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5f8rfMZVsT7ICfAGvLWtsG,Friends,26,192973,5PBvG3JA4gnEZzEzRzy8Fx,Stella Getz,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3DYVWvPh3kGwPasp7yjahc,The Sign,0,189786,5ksRONqssB7BR161NTtJAm,Ace of Base,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6sqCE9dc2RBPRSJ098Bbbg,Samba de Janeiro,0,171320,2CzPCLry0VHxB4JNva2du6,Bellini,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5pzSsipRTmu2tD9I3Nihxw,Doctor Jones,0,201933,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1wduR6C2vmLUY2JfK1Gapd,Twilight Zone (Rave Version),0,338906,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3DdCb7EyPUcUD0LKWkJ0L7,Roses Are Red - Original Version,0,222746,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1li2UA33w6LQcVXt4Di5UA,Witch Doctor - Radio Mix,58,187533,6eKJWEzLZq8jZix8hdYsv4,Cartoons,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5ENZgmiqcT9gdQ4Q9wJoOt,"Calcutta (Taxi, Taxi, Taxi)",48,199600,5aEE6nBaJ4POGCoFKCpK8K,Dr. Bombay,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+45Q5IYHJbBdmvlcnwVpXw5,Get Ready For This,0,218732,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7LoniACyyqAVqWTBNhMm1k,Vamos A La Playa (radio edit),0,183206,7ugN9bU7x54gVI2295brJF,Loona,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3WWxgARaLzJ8cILPCVPyR6,We’re Going to Ibiza!,27,217539,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0pBnOHQ2Ing6NpVvzM0XQF,"5, 6, 7, 8",0,201773,17UkABEasVRlCcIFZ3wHb7,Steps,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3UL6Lzsocv9Ucizgzid2B0,We like to Party! (The Vengabus),32,222458,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5rlMLwpJj23BvwfSZuYxYY,Do You Miss Me - Dreamhouse Mix,0,287840,5hgxMFtaWAhh6LDHdVBZLB,Jocelyn Enriquez,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3b5n82ZpDbHF5QgMmcr5XJ,"Short, Short Man",42,198933,20ldWECcOHmOWwKwAwvn4y,Gillette,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+65OXGbKBQ8gUyJvUd0jNpf,"Boom, Boom, Boom, Boom!!",38,202583,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5pP3RGiUtFVZlWotyJb9Ei,The Hampsterdance Song,0,212866,5eI4MKl2BlybuVrLJGhEMT,Hampton The Hampster,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+63wZlylRUopU7xfLsWICOC,If You Could Read My Mind,0,206773,7juiPJMZrtjD2QprlmGxox,Stars On 54,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3ryoveP3oVkbFkFWmqYIcq,How Gee,0,271507,2HW8QrmykJDpycE1lo5Uj4,Black Machine,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+426dSooXpAbPSpwY4cqj3D,Saturday Night - Radio Mix,0,246146,0lHoDF96DNKSIcIpcOfMnq,Whigfield,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5q10Ov2JEbODDK2tk4NYWW,Tribal Dance,0,218899,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6rEr7AsF3cmfUR3birakRF,Twilight Zone,0,248196,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0FFZvrxyZ3IZvCxvHmjWUS,I Like to Move It - '93 Radio Edit,0,225080,4AXX8UN3xaPrxHSqrgE3Ta,Reel 2 Real,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6ZzBqEYylrDYgeiJBTWKVP,Cartoon Heroes - Radio Edit,25,218493,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+022X40ctU5PIHD8YUjS9qZ,Played-A-Live (The Bongo Song),0,405600,2UOx6w3eHpPKc3RBnNV3Rl,Safri Duo,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+45e8T07myBjutIx2xh8Kq5,Better Off Alone,18,214883,2tbvDi9eXf9XXp06LupkED,Alice Deejay,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+30TGcZ8WY1OxbpjCvZI6ng,Played-A-Live (The Bongo Song),23,197933,2UOx6w3eHpPKc3RBnNV3Rl,Safri Duo,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7lbpqAD1ELBS3ifiEBO34O,Feel The Beat - Radio Version,43,259600,0LhHRmSd1EYM5QdNeNnCoQ,Darude,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2KELpXHhIQh1vzeC0vtV6V,My Oh My,0,204506,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2fyTojfPYs67KBWN4WYRX7,Too Close,53,258866,2MGT7CYlixSPxAnnkhLpaA,Next,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3J4YoloryJCieZ9kapS1oL,Always On Time,0,245133,"['1J2VVASYAamtQ3Bt8wGgA6', '5rkVyNGXEgeUqKkB5ccK83']","['Ja Rule', 'Ashanti']",2,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4YArE9FXO7Tn1WDthEEHal,Celebration,0,198906,14dmbYen0AciYxu5n4Fkpd,DJ BoBo,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+02aetK9orH28jZNsqpg1yQ,,0,0,0LyfQWJT6nXafLPZqxe9Of,,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0zgg6kgJgYIRubTWFLn2Nl,Lollipop (Candyman),0,215053,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7N12TgPErB6oeayRg6KQtd,Around The World,0,209120,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7pSJmBTlbA4S5zSLsj6Pzz,No Limit,0,223694,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0ibdklhZmwLo3bzHqF435c,Get Ready - Rap Version Edit,0,222668,18JD8DVlD1fakDAw7E9LFC,2 Unlimited,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6pBM20jZldvNlbNcnwAX0y,Beat It,56,257906,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1D9KEXIrlmPUkMTdYzqgX4,Thriller,59,357493,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7D0YmNlI9FDwodlKzHraRp,Billie Jean,42,294053,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4mZo6Uq1Stw6dwOEJ6beLU,Finally,0,222573,5UoVLCWzOKMIJ9iioof9OD,CeCe Peniston,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0FLVEkVw0DntflpnAoCG60,Boom Shack-A-Lak,0,271253,4sLklwvfOYr12fMGwrnlc7,Apache Indian,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4imDmoW6w3q1ceQsLDgrIw,Think of You - Radio Edit,0,243000,0lHoDF96DNKSIcIpcOfMnq,Whigfield,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3tcpZKk012t3CzMNWBMfx8,Mr. Personality,26,214733,20ldWECcOHmOWwKwAwvn4y,Gillette,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+58qwmuU2J2aFUtxoI4H7ix,My Boo,0,302560,7MRP8ZUTvfs94dk6k6agXf,Ghosttown DJ's,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+78tyTpHNWSFgNwZfppVOxS,Love You Down,0,257613,5IUvXYeMtVmp8YJWf0eqvf,INOJ,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2N5CvukjQqiWxjzZLMqqBN,Time After Time,46,255673,5IUvXYeMtVmp8YJWf0eqvf,INOJ,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5HAv1Ckfe50DUjv8ghwTrz,Escapade,55,283933,4qwGe91Bz9K2T8jXTZ815W,Janet Jackson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+49diihiMCvja4kdzs0EhT1,Asi Me Gusta,45,365120,5v8i5bIYoqGgrh9SLpclfd,Chimo Bayo,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3qax01wmMJw9UXJteJa1IE,Raggamuffin Girl,0,287253,"['4sLklwvfOYr12fMGwrnlc7', '1J4CDjVHn8ummXVmJ7Q73u']","['Apache Indian', 'Frankie Paul']",2,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7zxJ9x6TEKsdV2XODqfoST,Magic Carpet Ride 07' - Radio Edit,25,193293,0tOB8FBc9x40nYR1k3e8pZ,Mighty Dub Katz,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3N47G9kLMXq0edKgXFuc0R,On ne s'aimera plus jamais,48,227933,07sMHU0vu01xrz1gnNrNry,Larusso,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5rDsAMjmB4Qa5WNciJPsfK,Tubthumping,0,234133,0TcYeHEK9sBtv7xPbKhzHz,Chumbawamba,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1reVP49LT6RsV6kYY9lTZz,MMMBop,0,267946,0SdiiPkr02EUdekHZJkt58,Hanson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7L7tTRaMq2aEi7aFVmYS8z,Dying Inside To Hold You,0,219400,7JLwBH0X2G8tgHceqvOu5B,Timmy Thomas,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5tidDcllxdgwgS1CiFXWfN,Always,0,237840,0z5DFXmhT4ZNzWElsM7V89,Erasure,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+38eA8oivFfspYTmtdgOE5T,How Gee,26,268506,2HW8QrmykJDpycE1lo5Uj4,Black Machine,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+2828IPGCeOSUFmh1zpKK4U,Lick It - 20 Fingers Radio Mix,47,215093,"['0OarfYzJPCi3lAVZ4nhTTd', '5kxZthrgsEh5bONnKr56eO']","['20 Fingers', 'Roula']",2,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+42mnpsYGkfTN9iDhPz1Bb6,Cartoon Heroes - Radio Edit,0,219693,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1yMcYzmbOMqZHT2itMRoXu,My Side Of Town,0,189373,15CJJkRAJlTG8kA8Eo1f4x,Lutricia McNeal,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+6PRJTcGlU2PPA98asXb7sa,Chihuahua,0,178493,14dmbYen0AciYxu5n4Fkpd,DJ BoBo,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0h8ObRpidVl5UTQWo72UGW,Tarzan & Jane - Single Edit,27,181146,0BYEp3eyHK9Wsp4t2Ad1R8,Toy-Box,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4YAsmGgnMvTZK2vWJ0Gyin,Samba De Janeiro - Radio Edit,0,167000,2CzPCLry0VHxB4JNva2du6,Bellini,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4AyTGZ9bWPoq5cSnNwVzFf,Voices - Original,0,243146,1EN7GOzx8aDpiIbVVmQaaC,Ann Lee,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1zhCFvo8Snlg9J2lUl3jOM,The Ketchup Song (Asereje) - Spanglish Version,0,214320,1e8GEl48ktvfDpruMKB6Oe,Las Ketchup,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+29IdUYdVkmGG1OygvB5kvp,Wanna Get Up,0,202031,2UxjiPpWHNc2txHrYy5EF3,The Hit Co.,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4ongw21bth2zPe79eS04P7,Beautiful Life,0,224497,61VbC32uRFs9qCyTlpm2Jw,E System,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3GqW53mch04YEWBblPNG9j,"Bring It Back, Sing It Back",0,226880,5CXZqE5ZqN7U0kFhlnRPzj,The Chemical,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5bSZXZtgyLwr2ThOsD6bij,Movin' On Up,0,200080,3lcbKPLl0ci2mKRdcP5Etf,M People,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1kn3rlDQRYW0q4BRZpkrwV,What's Up,0,309333,40qfouqYX9cXmrbC3ZBvpV,DJ Miko,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+3ru46i7mJHg6rY2J5GRP1K,You Gotta Be,19,244946,73ZPfpfg1LBVvDEArK4l5B,Des'ree,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4ieyjH7njTmYDkhOilxmFW,Tragedy,17,269640,17UkABEasVRlCcIFZ3wHb7,Steps,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4y9q7pULhwcjMPoAl5qse4,Moving on Up,23,212733,3lcbKPLl0ci2mKRdcP5Etf,M People,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5CB1GStewOGoAL4joqEaYQ,All 'Bout the Money,13,172026,4eYjWapog2qNOYRnqBvGXP,Meja,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0Q4L79GJnMRcUPhAvMeS22,Dragostea Din Tei,0,213893,5M5PjPSiKeXynM6Ohu350r,O-Zone,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0Ev0agyIUHn2yeScvuIWNh,La Bomba,0,191840,2vAu3qMgOvtukijgajuXhM,King Africa,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5N21E3zEJNE6fTZMzmBtDI,Licky Licky,33,215333,3LSMhkaY2fWyOBVNG25ySA,Crispy,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0ZeBg8lBbcv7zN4Kj5K8jc,Just Saying,45,159618,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+1A6SHOaalcz1ps43PBImoa,Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - Basic Radio,0,213826,4omQQTNN7ILiMsSB2k9eqX,Scatman John,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+5Y3W09WHcXPx7eZ7s9gdMs,Be My Lover,57,240866,488v7rQzthLNK22r0UvMie,La Bouche,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+0YYbQESOOReEZjVzbYJtMC,MMMBop,39,267946,0SdiiPkr02EUdekHZJkt58,Hanson,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+7uYroF9RRrhRJBrigRvB6H,Summer Girls,61,257333,1FizW0swe8ODtXvEOHXbHX,LFO,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+4DJwdQDai9DLYBL9TNrEDo,Girl On TV,49,247600,1FizW0swe8ODtXvEOHXbHX,LFO,1,1zMWC6xyvmk9QHVJqzEaoc,OPM Dance Hits 90's
+44DFYt0ybr09tBuSdgXQ0e,"Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite",32,398386,"['5pHl48Qt0o8R9bz2Za1Og2', '204rRUtZ6aVfefn4b0DW62', '0ShRjC0zeITfzfuMYcvuEW', '3e5vfyOzKWkvhndSINSncR', '2lXnAsBWMKIMH2h2KdfOpA', '1UBtquuUSFe0uhz662TicE', '5yVM85m9yNcHO6o0vaaVxW']","['Vic Sotto', 'Joey De Leon', 'Mike Hanopol', 'Charo Unite', 'Ernie Dela Pena', 'ABS-CBN Philharmonic Orchestra', 'Daniel Padilla']",7,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+4oPQ8iwVb7GINpsQ9k1zW2,Awitin Mo at Isasayaw Ko,0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+7MOPgkgWFgJhKe1wQvolMk,Disco Fever,0,218400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0fq2dlauo1fH4tclsXd26i,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+05ZBTOH6RLA3oaSRbbUs8j,"Rock, baby, Rock",0,233413,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+2dsMR11aapObCMpjNFxYLN,"Awitin Mo, Isasayaw Ko",0,278960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+3m5IaeeOucNwc7eW6DQGfM,Ikaw ang aking mahal,0,203226,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+3LLWD2BbAtDQRMVWB3X2qw,Swing,0,258079,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+4eQBdl9Xoa3kyhfUyo5CvR,"Step no, step yes",0,172053,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+2zR0YC65qKjYaAP4lTJZhP,The Disco Rock,0,189373,1JygQfeB7OmzophGsgNwSb,VST & Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0wuAxX9bQnOBSy3NnpKyN3,Manila,0,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+6cxcKJrrBPCv4sc9Z6eYXd,Itanong Mo Sa Mga Bata,0,205000,5pbdyhkEpMobD6Fs6h729Q,Asin,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+3Oi1Dts8T4J1JRJBvWhFi3,Masdan Mo Ang Kapaligiran,0,245493,5pbdyhkEpMobD6Fs6h729Q,Asin,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+6dWHVJzF6pzgwULTpwbRdi,Himig ng Pag-ibig,0,252120,5pbdyhkEpMobD6Fs6h729Q,Asin,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+1GZFA7yiU097huAtj4exjb,Ang Bayan Kong Sinilangan,0,259626,5pbdyhkEpMobD6Fs6h729Q,Asin,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0ihzviBjZBoSDmCywQWK36,Balita,0,238880,5pbdyhkEpMobD6Fs6h729Q,Asin,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0qsyF8rhSxSl1wHANNK6kE,Nosi Balasi,0,263066,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+56o6VQxJTThiHm9eqC3JKk,Laguna,0,324053,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+4LUzGG1QyZPz4HRvm0TIkB,Tao,0,289053,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+5GuN4lO8XlgIlTxKCH4KWo,Sa Diyos lamang,0,477026,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+3QUAD90ZpaoMH72ARt6rcH,Sayawan,0,237040,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0m7ZGgr9baXIaO9AQlc7kK,Bonggahan,0,225026,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+0zMVaFBCvpYbz9Du9HQrgT,Rak en' rol,0,206373,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+79yCQrawsilxU56g0UifKQ,Akin Ka Na Lang,0,198480,719ZCUqy59oGckcB1MzVTx,The Company,1,21SGN5LFobjfthLiLZMTj5,"Vic Sotto — Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite"
+2n1TJruYCSsiWL4wUojeDr,"Awitin Mo, Isasayaw Ko",0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+1ntStv6ufp9GOAL62OUnaK,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+45PkLXO3enxMoo4MVid5Zm,Babaero,0,315506,05QLUMCFhUj7MAtXVPsvPR,Randy Santiago,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+2q7n3m8ISuN82Gh2BBXzr1,Laki sa Layaw,0,178533,0ShRjC0zeITfzfuMYcvuEW,Mike Hanopol,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+6ERkZrrEbom8UiyIi3NiFV,Beep Beep,0,273560,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+0KlJjhnfwAnPacNd7EH45J,Always Something There to Remind Me,26,218933,3C6chBmZ9wzisBhoh8G2nK,Naked Eyes,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,85,225280,2jzc5TC5TVFLXQlBNiIUzE,a-ha,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+2AkmdLbVKS1steeZdy8H1l,I Want To Break Free - Single Remix,74,258013,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+1HOMkjp0nHMaTnfAkslCQj,My Sharona,76,295400,0Nn9YwJzcaeuU1jJL06e3r,The Knack,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+3ClOMebBxeNTYCOfTH24YJ,Le Freak - 2018 Remaster,55,331360,0Xf8oDAJYd2D0k3NLI19OV,CHIC,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+5uuJruktM9fMdN9Va0DUMl,Play That Funky Music,72,300000,4apX9tIeHb85yPyy4F6FJG,Wild Cherry,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+4Gnl12vioGd6lgIjeYcMCl,Mickey,54,253199,59hMeIYY3k3NoX54rrVGPv,Toni Basil,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+0ikz6tENMONtK6qGkOrU3c,Wake Me Up Before You Go-Go,80,231333,5lpH0xAS4fVfLkACg9DAuM,Wham!,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,80,238266,2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),82,291293,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+4M7Z5H89JEah5I2TUPIvg1,Disco Fever,0,218400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5A8dwL0CIRl4qQanHWf0eD,80's OPM DANCE MUSIC
+71C0EL3xDpzQ6vPszFC5kF,Haypa,36,231480,"['03Mhn0T0a5DFI5XEDTgAPi', '60vf7vwHRpTIREtQemqqLF']","['M.J. Magno', 'M.M. Magno']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+3pfXzXbRJNXOT7f2IQ1s2p,Sumayaw Ka,40,222160,7HJDRQAfEcFiARVehhM6qD,Gloc 9,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+72fNF3cEskOhW1sgg0igZ6,HBD (Birthday Mo),0,378666,"['1dpv0XBdgUa5z4vzn7ahIz', '2FvXtuMlYRrEkSF7kdAfFq', '5sMrFt1qsLWEzAS6q5z7zx', '117XFtbZPnCI1EYKjYZWJc', '24GNt8qmlsj3hwYgRgiTQ9']","['Donnalyn', 'Smugglaz', 'Zaito', 'Skusta Clee', 'Bassilyo']",5,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+1bRGzgZC3WwoSTz2ILUGxV,Sabay Sabay Tayo,35,186426,09SDp08zijiSCPkOEPd6Er,Marian Rivera,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+0meR8PxxkqAkURn0eo7VT3,Karakaraka - Version 1,18,199996,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+3qn0vmgVK6IMY2r1ydjUZR,Bomba,11,168803,"['5ypLx1BkPqAdDX3SGT3EG7', '3hfCSSKB3k7TFnisF4Jeyt', '4jDLiNZ2YRoHkvlaIls5US', '1mcqfNCReSFxun2vIWvC28', '42qpwcGHUd1GwcN0sBswIg']","['Zeus', 'Curse', 'Bless', 'KZ Tandingan', 'Gus Abelgas']",5,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+2aJ6HclWuCI2lx9m7QBqCJ,Nakakamiss,53,307252,"['2FvXtuMlYRrEkSF7kdAfFq', '5ARszAxExBCstgC0cLXK4J', '1H7jRjl9QdKfOWU47YAD3V', '4K7jEoIMJx2MpmgivAbJsS']","['Smugglaz', 'Curse One', 'Dello', 'Flict G']",4,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+5Ptw2wrwzIJauYhxQUaQK9,Trip Lang,0,182773,"['5GdspZ491zr64zzwVJJjJZ', '2wAySc3vvZHYYCbrmlpSAk']","['Shehyee', 'Sam Pinto']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+5sB1hG81TWQTrzuMwxuUg8,Masaya Ako Sayo (feat. Ms. Yumi),54,197595,"['5ARszAxExBCstgC0cLXK4J', '1O5apWv8xRb6YbHu7E0Tu6']","['Curse One', 'Yumi']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+5Gm6YoDs8N2WznOpASSB5P,Go Up,0,189100,3g7vYcdDXnqnDKYFwqXBJP,SB19,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+6G3tTLzjROxw2KpZjUvICy,No Apology (Wala Akong Paki),0,166857,0touaoSr4QOLYxBJ9lmGgK,Karencitta,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+3PLARiBoxCpJFUMZhvV63x,Dalaga,2,297932,0WleeEe3UurwlNbDGhb5Yz,ALLMO$T,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+0miBQcZuyVUwKIUTEhuBpX,Ikaw Ang Melody,25,285120,0vnvkzyrIHCyhTUdp3yjcu,MNL48,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+4T7CM071eEoHudiDShZlCJ,Tala,3,245053,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,80,183290,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+0BkKdJSpKqzYLEneerSHq3,Mau,53,267013,6ogIjp0fsbUxlqy9q2rvrT,Shanti Dope,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+5dFWUYnmfiJsIkd5E9CBR6,Love Story Ko,57,227321,7HJDRQAfEcFiARVehhM6qD,Gloc 9,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+6X7eJp4lv4ZeTkWor2wHLz,Shantidope,53,211146,"['6ogIjp0fsbUxlqy9q2rvrT', '7HJDRQAfEcFiARVehhM6qD']","['Shanti Dope', 'Gloc 9']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+0BaMZMMEG7GWrUYsoGw8Yg,Neneng B,0,358015,"['3lFMRWaEWZlfXdBig97kks', '060TqET6tyyfAQLXDyIDD8']","['Nik Makino', 'Raf Davis']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+3y9yjy3jfngNoC8WEZRtPS,Hinahanap Ng Puso,55,262560,"['7HJDRQAfEcFiARVehhM6qD', '5q1FQpCXqYWMsxJVF1GKOb']","['Gloc 9', 'Hannah Romawac']",2,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+1nIQVdsw5WeSO4LK0S3zBF,Materyal,59,246960,6ogIjp0fsbUxlqy9q2rvrT,Shanti Dope,1,6lcAbGbLD9bgtI947TX656,OPM dance 2020 sayawan
+506BdFfS7jCdKezMubp5Gc,Swing,0,259666,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+3wzJONRAWifYibdxsOkNeL,Kasayaw,0,250226,7xQlpD9NySrgqK9mAhOGxm,Archie d.,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0cJhOwOBnpyupfqnjz86Vh,"Awitin Mo, Isasayaw Ko",0,538493,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+1ntStv6ufp9GOAL62OUnaK,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+43SlzMbYLKz8CRugupTwv1,Blue Jeans,25,261706,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+7bhe8Wudn4b9tRz5qAxBfi,Di Bale Na Lang,34,286278,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+5z1cHXrRZW4Gdon2f9AnZE,Eto Na Naman,26,230574,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+1QVWRQ0BO4G1B4DgFjrACF,Mamang Sorbetero,39,190666,20gOeXI8NLUKdSr9Z4YeD6,Celeste Legaspi,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0vtB6WImXy3fEaSQlHBQsH,Kay Ganda Ng Ating Musika,0,224226,4u6tIl0ae3m9HUtUubJsa6,Hajji Alejandro,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+37aGMag7ETJIGDETIiK7Wx,Umagang Kay Ganda,38,228173,"['7uH5aJgl8e1vjSp330W6kN', '5AquMw2DcUWwsA6GoWKZRb']","['Tillie Moreno', 'Ray-An Fuentes']",2,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0XKdfRjk2UgMIxDhQBehL1,Tuwing Umuulan At Kapiling Ka,0,281813,2ctUvNSyw4TfFtQMkBYiKZ,Basil Valdez,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+4ce53BqoLvRTFKjgxy3rib,Kumusta ka,0,176080,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0euXZ7rTRhlrACm9ZbdxUy,Ikaw ang Aking Mahal,0,202173,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+7igjFJD3Wr3tcGLLwV82fX,Mahirap Magmahal Ng Syota Ng Iba,0,142333,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+0LMs6ILPnWNZK6XlDDDoP5,Dahil Mahal Kita,46,192841,0dO1E4DyMS2l0d2787m6ql,Jun Mallillin,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+2aHJ3zxcfolcvgrP14TSDB,Bakit Labis Kitang Mahal,53,223921,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+71X1MUw3Zg0vmDBQrQo02l,Ikaw Ang Miss Universe Ng Buhay Ko,0,246160,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+44l5K74G60TzPBRLIKhEcV,Binibini,0,215626,0GMSTrBKMucDuHH46oXvqo,Rainmakers,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+4x6naldQkgHQqbDWaYdYHp,Ipagpatawad Mo,1,212000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+6FE5H2W6buf34HJTNjku8Y,Paniwalaan,0,214506,1PI4WlIlSXjbueFblPqWnT,Blue Jeans,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+7Lq3Lv6khoDcAyjGnwsg9F,Kahit Maputi Na Ang Buhok Ko,1,205320,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+6i2COzUX0qKOIDds8P8mUm,Naaalala Ka,0,234000,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+7K5iSlEO1NODQiOTlJCfEC,Mr. DJ,0,229333,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+78Ojxq3WW00JhUMKb56dNU,Handog,0,219466,14xDeJRwQRbJIaSBikR4KH,Florante,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+5NycldQ4bHsdQtby3iAxvv,Kahit Konting Pagtingin,0,160293,5uRUbTUQysRUR7PUy7pimM,Ric Segreto,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+3RU1lrQCj7196vd0pMLB4G,Ikaw Pa Rin,0,167506,0V4IscoIfSrqSxgl6LILST,Tito Mina,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+3IIwTvQFFBvBV5Ai5K4CnC,Kamusta Ka,0,205693,5HlAsdRigFvxwPkNn4vSWz,Nonoy Zuniga,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+4QdyGGUDHn3xwpjuOhJtih,Ang Pag-ibig Kong Ito,0,197266,4KYUuOPDT1JxLuJbcyWtky,Leah Navarro,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+6l8ectIpFlHmVUo6XkoUnX,Ngayon At Kailanman,0,274946,2ctUvNSyw4TfFtQMkBYiKZ,Basil Valdez,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+5s6onJUv6B6mNoAVYohMYg,Doon Lang,1,209240,5HlAsdRigFvxwPkNn4vSWz,Nonoy Zuniga,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+5t5Rp50Ut1oFLyiyXILvHj,Hataw Na,27,306642,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,7krgBInDCA8bRIKdOOFsrw,OPM Dance Hits & 70's
+4oPQ8iwVb7GINpsQ9k1zW2,Awitin Mo at Isasayaw Ko,0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+5h5u9BTx7TFzXHjryyj63X,Disco Fever,0,215826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+6lCeZ0yzbOQfQMbXtRVQTQ,Magsayawan,0,186866,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+2zR0YC65qKjYaAP4lTJZhP,The Disco Rock,0,189373,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+5R0LVBRsiJNyKg7sfOZME5,Ikaw ang aking mahal,0,201400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+3bPCRboWO8BOWiyBRNp3HW,Swing,0,255960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+24VKCQ6nBdp9n6DWsKVEDT,Kiss… kiss,0,251106,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+69M9brb8GXkxm8tG5915CR,"Rock, baby, rock",0,230706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+0RtYyYqiDXZQGWKw3Mtam3,Dance Medley,0,1035026,"['0jarApAsbmiCkYhz0590mE', '29Aqsp33ANrcidwOkNJJU6', '5E5sr7RkHU6tdxk5G8zF4A']","['Freestyle', 'Lani Misalucha', 'Zsa Zsa Padilla']",3,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+56tq8hlliFGTovw30oaMvy,Shout for Joy,27,269583,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,7CxyWFVwiYgnL2OqS4ZEm2,80's OPM Dance Songs
+5DdSN5U634K0bREQEbz6VI,Dati,53,240600,"['2P3aLwJ41aRYkyFFw2FRM7', '2j0vP8ZxbL4V0hBbHOjvrH', '3i56tClx1CsaoGJC8BKlhz']","['Sam Concepcion', 'Tippy Dos Santos', 'Quest']",3,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3FtwK6QDHgPPhhELMWZesy,Di Ko Alam,6,202613,6JOWPLiMEZPRrwyhn8gw8C,Enchong Dee,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+03J3I8n0aTTbi6TwzRPx2W,Kapag Tumibok Ang Puso,0,242000,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+47eqo5C7z8wJOHSqMLB6tu,Di Ko Na Mapipigilan,42,227173,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3lfLAToNl2Ibcuo9U6UTSd,Upside Down,56,197386,5zMgvYBz4AW0gFyPtg7fR9,A*Teens,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+4T7CM071eEoHudiDShZlCJ,Tala,3,245053,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3pxKwC2y3QapLo7Is83qRs,Kilometro,0,191213,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,52,211200,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+57NF2cTqsTx11rOlNKkwWA,Chinito,49,226876,0DnjaQqb436AH1idffI6CQ,Yeng Constantino,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+17tcPIrHqmEbyBJOFHFozK,Don't Know What To Say (Don't Know What To Do),3,165400,5uRUbTUQysRUR7PUy7pimM,Ric Segreto,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+6KPMiBhU6O9RBImTQXQNCe,Get Down (You're the One for Me) - LP Edit No Rap,59,230386,5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+6zWVRHzx7XHwzBgTwivaCv,You Are My Religion,50,243760,28pS8WVbFstY0o1SrqCf8I,Firehouse,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+5DdSN5U634K0bREQEbz6VI,Dati,53,240600,"['2P3aLwJ41aRYkyFFw2FRM7', '2j0vP8ZxbL4V0hBbHOjvrH', '3i56tClx1CsaoGJC8BKlhz']","['Sam Concepcion', 'Tippy Dos Santos', 'Quest']",3,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3s2sCot0z51n1tcPAyztgb,"Kiss Me, Kiss Me",0,208695,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+1qoXYfWILyuN0EatImGlma,"Nothing's Gonna Stop Us Now - From ""Crazy Beautiful You""",60,258014,"['62WbvkXqQGvXQvw74GU3kQ', '5yVM85m9yNcHO6o0vaaVxW']","['Morissette', 'Daniel Padilla']",2,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+1S4vILROGmgYIbk9hyPKLy,Dying Inside to Hold You,54,219400,7JLwBH0X2G8tgHceqvOu5B,Timmy Thomas,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+1j3059faDlpFVkgkDTms1Q,Tuloy Pa Rin,0,293666,6uL1sJWYOjC2V4j9LzmLES,Flip Music All Stars,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+034zHn5tOZLlwDxv0zy3rj,A Smile In Your Heart,56,229120,4QvYFzlTFZFg2904xx8gOu,Ariel Rivera,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3T1gQKIAKGszo3hDUA3oM5,"Isang Tanong, Isang Sagot",45,268773,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3eAM3mpO1Up7TPNDcrGU5y,A Very Special Love,42,237893,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+443y9INrGrJX3k9nR06T2g,You've Made Me Stronger,53,247379,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+2uN3ieFl99hruPZ8hwKd8o,On The Wings Of Love,1,248000,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+1stYuCDUYO3VO9PJhW2Oz3,Wish,49,287066,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+4TNuDumYtmoFMmQtFlpWvS,(Dying Inside) To Hold You - Heartbreak Radio Edit,44,225173,7JLwBH0X2G8tgHceqvOu5B,Timmy Thomas,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+5NUC4eoQRqhkrIu8AzSqdL,Tuloy Pa Rin,2,272973,0vkER0y96fNRbGEs6wLZxR,Neocolours,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+3NPpffPHrPh7x57k4rbXhi,You Are My Song,1,232800,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+4mkrjJ2C5UAlhIhhAwL8QA,The Flame,44,316080,4bqlN5QwtM18JDIF36lgLO,Six Part Invention,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+6r8xaATVItrgU4Xh6Ny77R,Ikaw Ang Sagot,46,241306,0OfbINzHwk9OIn7NxDRekE,Tom Rodriguez,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+0WVSG0ZdhnwEMBdABYQsus,Someone's Always Saying Goodbye,49,228853,46p4OWcs3kMmScf5Rh1ynv,Allona,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+0xbYPrTFlWhbpaiKjHYCUY,Glory of Love,42,277972,"['19l4oVulvZzVoBEfaP3i0n', '2OQT6k9fZDNLzYouDhqpKB']","['Jessa Zaragoza', 'Dingdong Avanzado']",2,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+2V4RQToOMBTQSefOSkIwMo,Tunay Na Ligaya,46,237826,4QvYFzlTFZFg2904xx8gOu,Ariel Rivera,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+25sIjg6llErMXRnoALTRSq,Till My Heartaches End,63,249333,4UEbuAbIRXr2F2S3nm4uok,Ella May Saison,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+4TBV4DB6XiXhTpARNrxRUY,"I'll Never Love This Way Again - From ""Barcelona - A Love Untold""",40,241946,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+5JaOsK2FAE7Fx4qVgiv7NC,Forever's Not Enough,1,267733,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+03ZhCRUbYt5BVd00I9B8AR,How Could You Say You Love Me,0,245093,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+58lmkRQMpm7xNrFWgVx5yj,Ewan,53,175986,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,6jrteSMsboAPyqxhfWwE9B,OPM DANCE SONGS
+7gMgPpuKn7pq7V39wLwGec,Manila Girl,43,177098,5YLXhjQdVWkWgW3LEojsrh,Put3ska,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1K2a2FNsthUSXu3ujJDO56,Sasakyan Kita,0,238880,4AvwdY7LTgEtkxMMm66Vfe,Gladys and the Boxers,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1ntStv6ufp9GOAL62OUnaK,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+0roPkFbVWfUPo9d7WtwgIu,Dayang Dayang - Narigat Ti Napili,32,243559,"['317sZ5Tefi3Nb3ZsU5Y2sK', '7tUEF1dZTiAtRSvwSAWwF0']","['Bukros Singers', 'Melo Santiago']",2,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5GMyYDPAowISXa36Tx9I9Q,"Awitin Mo, Isasayaw Ko",1,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+7hH0BuE5vvMMn3vhvTpMuV,Totoy Bibo,35,181110,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+4TgqPQ6qbdcndOo5UKSas1,Sayaw Birahe Cha Cha,35,412499,"['25p1uAURmIM9Fvf8sBeZ7z', '4VCMizEjAhMQy0uYWQK2jr']","['DJ Red Core', 'Khalil Alcontin']",2,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+3u2ZsLQMNHbzIIrFBcE4UK,Cha-Cha-Cha,35,217733,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+72yHvWrsFJM2Scb7XMTePg,"Medley Chacha: Besame, Mosquito, Redonda La Cabeza",34,373453,7i83kGkErexYAyy11a9MF4,Franco Bagutti,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6o3r8LmadVJg7olM4CcKlg,Ging Gang Goolly - Radio Mix,34,193666,0mzrqjlVPKWw0c2jyr8T1X,Inner Kneipe,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5zY88En2G85ujcW7zMxy8U,Touch by Touch,33,232013,2AxWLbnfmYg7QkQDt55bFu,Joy,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5573IMs0n7D1M7XcJGbQ6j,Cha-cha No. 1 / Cha-cha On The Rocks / Rico Basilon,39,307560,6GxND7Iy7fZCbua8Ys3mz0,Cesar Manalili,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1jf4KVtlyKBrUTgfqZaNc2,Chacha 1,25,224626,25p1uAURmIM9Fvf8sBeZ7z,DJ Red Core,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+0THOzNlUdrxg7Nupnl4qRk,Sweets For My Sweet - Maxi Version,34,346096,4M9rZjWQeOXBe9azRYoHvF,Chriss,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1BG5KsPrIHuqXKnWBTPZEe,Carmelita / Yellowbird / Besame Mucho,32,327666,6GxND7Iy7fZCbua8Ys3mz0,Cesar Manalili,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+7MjfPBC1B6QYxkXxccFejS,Oh Carol,33,214706,"['1NfuDqaHrPg4AOSuhCPv6Y', '5qseXsRwPyl5zk7GJNc9XW']","['Don Campbell', 'G.Saint']",2,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+61QOBePln60KrA4Xomb24r,Touch by Touch - Bass up Remix,20,227522,2AxWLbnfmYg7QkQDt55bFu,Joy,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6hkFo8Lmdsqq2GBxCE793w,Ilocano Medley: Naraniag Nga Bulan / Manang Biday / Pamulinawen / Naraniag,36,238280,6GxND7Iy7fZCbua8Ys3mz0,Cesar Manalili,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+2sT4HgH0WRf5wyWNQxbx6K,The Carribean Disco Show,15,245720,2e2wmWavnwKefs9pwTzaq2,DJ Rico,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+4Pcj721M4uHxhKKQYhwNzV,Todotodo,11,269826,6Qtt62p9dScgfEc66GhbDz,Noel Gamboa,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5sMLnbfjWcFc0CzMsY6Siz,Isem,28,180929,317sZ5Tefi3Nb3ZsU5Y2sK,Bukros Singers,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1iKGWhdsA1AwdvcB4u587H,Bilando Boogaloo - Remix,26,249066,6So9RW1mK2vNGkZaNloXSv,Andy Fortuna Productions,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5KDoMr79QcsTSsMgvc1Gt0,Obladi Oblada - Workout Remix,11,246374,0k5KeG8St6LiePh5blOwwl,Workout Music Tv,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1ZS2wXg4GL3DCLRCZeeYIr,Oh! Carol - Reggae Remix,40,187924,0tL28wSf3OIwUNPzFiOzLA,Andrew Sixty,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+2QJWVQW9H8LtpT2E9Gfe7c,Non Stop Waltz (Ilocano Ballroom Dancing Special) - Isem|Korinti Korombog|Biag Ti Hawaii|Baak A Baro|O Naraniag A Bulan|Toy Karayo Nga Inkalaigim|Inton Agkasarak|Abalayan|Narigat Ti Adda Asawana|Dungdungwen Kanto - Sabong A Kallidan|Alejandra|Natarnaw Nga Ikikitam|Igid Diay Baybay|Puspusipusem|Sipud Inta Naginnayat|Dinak Maallilaw |Ti Mula|Denggem Adding|No Siak Ti Agayat,27,1911800,317sZ5Tefi3Nb3ZsU5Y2sK,Bukros Singers,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6dcci3hHjvyGuxIN3kKkZS,Non Stop Cha-Cha (Ilocano Ballroom Dancing Special) - Febuka|Nagimas Ken Mayyang|Ti Ayat Ti Meysa Nga Ubing|Tengnga Ti Baybay|Ta Nagsaway A Pintas Mo|Sungdo Ni Ayat Di Mamengga|Imon Wenno Pasugnod| Sampaguita|No Duaduaem Pay|O Imnas - Asug ni Ayat|Naikari A Gasat|Balikbayan| Annadan Ti Agayat|Ay Manong Dika Unay|Ading Dika Unay|Pamulinawen| Para Aw-Awir|O Bullalayaw|Singsing Ni Ayat,21,1777200,317sZ5Tefi3Nb3ZsU5Y2sK,Bukros Singers,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+2ajUl8lBLAXOXNpG4NEPMz,Sway,75,188066,1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+5nYabdvsfkHaLEsHDuSYHb,Sway - The Passengerz European Mixshow,24,190226,"['1GxkXlMwML1oSg5eLPiAz3', '3kCvCuHFCTjPFIa4yMVkTT']","['Michael Bublé', 'The Passengerz']",2,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+3whrwq4DtvucphBPUogRuJ,Havana - Remix,65,199095,"['4nDoRrQiYLoBzwC5BhVJzF', '4VMYDCV2IEDYJArk749S6m']","['Camila Cabello', 'Daddy Yankee']",2,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+6G2yfdgbA1NRUfWkNIySGM,Ilcoano Country Non-Stop Medley : Imon Ni Ayat / Natarnaw Nga Ikikitam / I Love You Because / Ilaw ko Kenya / Aranaar / Ading Kunak Pay Kenka / Pusipisen Ka A Bato / Bannatiran / Pamulinawen / Ti Sumrek Ken Ayat - Alejandra / Kaingungot 'Ko / Maysa A Rabii / Adu A Kulibangbang / Sabali A Pateg / Biagko Denggem Man / Addakon Biagko / Urayen Ka / Dikanton Malipatan / Dika Agsangsangit,4,1814082,317sZ5Tefi3Nb3ZsU5Y2sK,Bukros Singers,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+1mWdyqs6Zvg8b1lKjDc8yB,Good Good Father,66,293398,6pRi6EIPXz4QJEOEsBaA0m,Chris Tomlin,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+62O2A90PsTpRxZEwWeHFOO,Neon Moon,37,249056,7qDiJfSZ3jm3vRN37nJdkZ,DJ Challenge X,1,2sewbeYzLoqWTxKExqjJQw,OPM dance remix
+3u5ySLy0QEfyKgQkTZF6Ki,Pamela,39,215640,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5mvfGweAVJVxCSKRmsZ3RC,Totoy Bibbo,43,228362,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4vHm5aKIZorwhkBBJLO02v,Otso Otso,30,261839,7fOv4Ta49L1jcXWz2MO8cP,Bayani Agbayani,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0r4ntnBbIFueu9Cd3bcyF5,The Spageti Song (feat. Joey De Leon),41,231640,"['4HuN4J7CJxP3Y3FizjNxXa', '204rRUtZ6aVfefn4b0DW62']","['Sexbomb Girls', 'Joey De Leon']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5EYZYYDiwbhxH7SWjfIQhr,Bulaklak,0,255680,1lVlO2lXDFRAkQ8WygGu4G,Viva Hotbabes,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4rbTLk6Za209EkwVT2EZnN,Sasakyan Kita,0,238880,5NqQvTp9nZcQgLQQEMpoJF,K And The Boxers,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6NOr8cgPT3HcdjhqB8sbLI,Kembot,34,218357,63mE8E2Q1P6J5ibuqE2Kau,Marcus Davis,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0VQk6KBFOXMV08yg4HloVF,Don Romantiko,38,216871,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3sHPFj12oEx79RLIHJVy55,Bakit Papa?,38,213306,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3eSDXqvDhUriIOsnBCDoBc,In or Out,23,271882,3LKVw6XQYcot0OZMFmf4IP,Sandara Park,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6kvFxARivWTEI0BED23uw0,Butsekik,0,146106,4w8YQxx0XQfWZgQwRSqcoE,Yoyoy Villame,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4oPQ8iwVb7GINpsQ9k1zW2,Awitin Mo at Isasayaw Ko,0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7E8uUVyJ5fX5Hx3odGcfff,Dulce Tirah Tirah,26,211617,0rhvE3OgmlFSE2V5EzI1hr,Denelle F,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+61Jl8CriFDyhLe4RvHCx6z,Philippine Geography,0,168400,4w8YQxx0XQfWZgQwRSqcoE,Yoyoy Villame,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2cPnHH51UH2JcJ3xU3VyVM,Kapag Tumibok Ang Puso,0,234200,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0fq2dlauo1fH4tclsXd26i,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6uvbjI8PDqRO3Z4oCXsZO9,Mag-exercise tayo,0,126613,4w8YQxx0XQfWZgQwRSqcoE,Yoyoy Villame,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6Vijmq1vGwly21Ng5IRmX2,Rock baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+1QVWRQ0BO4G1B4DgFjrACF,Mamang Sorbetero,39,190666,20gOeXI8NLUKdSr9Z4YeD6,Celeste Legaspi,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4BhRFxScgHZbR1CZMKyAA6,Pinoy Ako,20,238971,5R4ZLG2gifQY8gCgnMJBq8,Orange-Lemons,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0016r4MRcbuZUXcS31biFf,Whoops Kirri - Christmas Version,23,210964,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3M0qwMCBwv5hMiqacRdwgL,Wag Kang Pabebe,26,186540,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3jcYChQayxSRzeeSvRnGoo,Chuva Choo Choo,30,182337,19jotRfFullBKocQAhkvjs,Jolina Magdangal,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4mjeRPOjQSgx0aO4zMSenu,Spaghetti Song (Sex Bomb) - Radio Edit,15,217524,1cTm2OgWDUyZCo5FZDJhrN,Flowers Lane,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5KncckJB2N8tgih9MQ4rLN,Pretty Little Baby,29,177666,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3YuvBTIns5hVchzYMuNnD1,Boom Tarat Tarat,0,249573,0ZXi1NG0Wwlaj70Qn25mAr,Willie Revillame,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7MOPgkgWFgJhKe1wQvolMk,Disco Fever,0,218400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2A0zCzLzCrT7JMKLkcOEjM,Basketbol,0,265986,1lVlO2lXDFRAkQ8WygGu4G,Viva Hotbabes,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0ujyTlM3KMhfW6BLQNu6mD,Swing,0,259666,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2uopHPECeb9K76fT6ZIeWY,Kikay,0,230506,1lVlO2lXDFRAkQ8WygGu4G,Viva Hotbabes,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3u2ZsLQMNHbzIIrFBcE4UK,Cha-Cha-Cha,35,217733,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7MrDfa1uQGVXx0JMZ2u5tN,Hayaan Mo Sila,56,367229,"['2iB7AJhJmkWkkehY9ccB0j', '00xU4wfephkJrjwJPDvfkf']","['Ex Battalion', 'O.C. Dawgs']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2yNaxIOLAk16AO52Ce0yZ3,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5ElggyFOoCXycgAfFqZe6D,Itaktak Mo,35,196453,204rRUtZ6aVfefn4b0DW62,Joey De Leon,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5gZX3mL8hbcQnY1n1IbTf4,Macho gwapito,0,179973,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5G5XqGtunSSyCiSBHVoG6j,Halukay Ube,30,255933,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0W2WLMWqiHpXxUpUzO9QQC,Jumbo Hotdog,46,147653,1JerI7MBqgTmPwFT0RpGS2,Masculados,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,52,211200,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2swnqoqJsWHE0vWQradpTi,Ang Ganda Ko,20,253417,1x8pxDchfqNHJNIsbOfIxF,Sandara,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0meR8PxxkqAkURn0eo7VT3,Karakaraka - Version 1,18,199996,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4ujHnICyBK3n6sbdrf9kNs,Chickboy,15,222122,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5y6K7KDCmbzYnjOmk8G6Sh,Supah Papalicious Man,19,165856,"['4p4ijAouEvVH1advAWxJWG', '47qtNxWpxd6UYYVMYyrZLo']","['Vhong Navarro', 'Makisig Morales']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6de7GgoGhMzE86jmT60LdJ,Crush Kita,25,206853,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+30fc2GiNGDtQRNpdGC9WUv,"Ang Kulit - From ""The Super Parental Guardians""",24,169168,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7gFWLbv6qbVL5U7girZSwL,Atras Abante,21,183720,7fOv4Ta49L1jcXWz2MO8cP,Bayani Agbayani,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3ZpW0xZL930v5QaksD03Dt,Whoops Kirri,33,221173,3VWteTXsE4zkq9I7stEQe3,Bea Binene,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+71C0EL3xDpzQ6vPszFC5kF,Haypa,36,231480,"['03Mhn0T0a5DFI5XEDTgAPi', '60vf7vwHRpTIREtQemqqLF']","['M.J. Magno', 'M.M. Magno']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6sQ41j7G8kyhirJxBoI6gs,Shalala Lala,26,214819,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3GN044WN103eoHAob5aO8h,Boom Tiyaya Boom,6,223738,"['66wdOb46i1MFVulL87HFZS', '2QkUAQTbEUsqLZoVKzdc4b']","['Baby Girl', 'John-Robert']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2y1NkvoVVb59xo1ZbyzCal,Bebot,0,210200,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3DombXFkAF9SQgYfzj3xF0,Summer Ang Simula - ABS-CBN Summer Station Id,10,304905,"['0DnjaQqb436AH1idffI6CQ', '2hk8fMHmlHjpu7VC6HhlG7']","['Yeng Constantino', 'Kean of Callalily']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5A9xkx2wFwVI0flE3Tosqw,Pinas Smile,24,296826,"['3X6h5htUs8jKlqUa2xv96B', '5yVM85m9yNcHO6o0vaaVxW']","['Kathryn Bernardo', 'Daniel Padilla']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4tAhrW2F23JOSMznnYHbyc,Hashtag - Show Me,26,143445,4AXNITcF72fl7Qjyd4u9bE,Hashtags,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4Y6cDd4EPHcEbiUKdyvNwM,Macarena,58,251293,2JXn03fudjyRkQ1Ye9f5rk,Los Del Rio,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2q77TfBa5dSjqry2E5Msy1,Papaya Song - Das Original,21,190760,4cggL4rADHxCipyca3IJQH,DJ Heiopei,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5ygDXis42ncn6kYG14lEVG,Baby Shark,77,80927,7cTXfwpe9peK0UE1bZyIWZ,Pinkfong,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4QHWwNJ9jbvRecDWwml4Va,OHA - Kaya Mo Ba 'To?,21,165410,3Jt4p6x9YowCdxUiunLGZO,Enrique Gil,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7CchnrA1mj9UKunKAQIJhK,Don Romantico,15,168101,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6DkbpbNDIGWagds2lUJNmc,Angelina,43,197093,46lnlnlU0dXTDpoAUmH6Qx,Lou Bega,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3pfXzXbRJNXOT7f2IQ1s2p,Sumayaw Ka,40,222160,7HJDRQAfEcFiARVehhM6qD,Gloc 9,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2PlM5j2mwnbJKRdXtI3k8k,Mobe,29,213890,3Jt4p6x9YowCdxUiunLGZO,Enrique Gil,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3SrARmZw4JdKmhmPLYphFl,Boom Panes,26,191413,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2YFGB5mtZxY6OBQSbanCIz,"Igiling-Giling, Ikembot-Kembot",15,233680,7fOv4Ta49L1jcXWz2MO8cP,Bayani Agbayani,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2V7ynsdaofsrzPgMn1VoH8,Awitin Mo At Isasayaw Ko,29,178426,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+47eqo5C7z8wJOHSqMLB6tu,Di Ko Na Mapipigilan,42,227173,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+4B9PdCNpYXXoCukk7DlA9r,Kiss Sabay Hug,22,168426,4HuN4J7CJxP3Y3FizjNxXa,Sexbomb Girls,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2CrqPG4zSLE1En4jSE5ZnP,Mag Exercise,22,198556,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+40KJnVSNHTtEqK66LN5ss1,Mr. Papabol,11,204960,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+1GNcZErSrwbJO0AaNA3a8v,Mr. Disco,31,242066,3lAC3q0zkzBypNwjBLBvFx,Manilyn Reynes,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+44DFYt0ybr09tBuSdgXQ0e,"Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite",32,398386,"['5pHl48Qt0o8R9bz2Za1Og2', '204rRUtZ6aVfefn4b0DW62', '0ShRjC0zeITfzfuMYcvuEW', '3e5vfyOzKWkvhndSINSncR', '2lXnAsBWMKIMH2h2KdfOpA', '1UBtquuUSFe0uhz662TicE', '5yVM85m9yNcHO6o0vaaVxW']","['Vic Sotto', 'Joey De Leon', 'Mike Hanopol', 'Charo Unite', 'Ernie Dela Pena', 'ABS-CBN Philharmonic Orchestra', 'Daniel Padilla']",7,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6W5hiwrmxKX92aFS3dCG9P,Tararadyin Potpot - Remix,2,229226,7fOv4Ta49L1jcXWz2MO8cP,Bayani Agbayani,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5oKb2pJv0LlQglJJcH1JwZ,Si Misis,13,247493,7fOv4Ta49L1jcXWz2MO8cP,Bayani Agbayani,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5t5Rp50Ut1oFLyiyXILvHj,Hataw Na,27,306642,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+5sCeLelyl21jxAjpXRUFkJ,I-Swing Mo Ako,0,208306,6hNeqnHcPj070xntXlCwuv,Mulatto,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6XABNkNMpptkuU3TsUqYHp,Chocolate,0,202161,0i9chAZT9XWEJNz5ymfEcD,Soul Control,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+6D2wNAHzlXjbg13yIKJRQ0,Manayaw Tang Tanan Budots v2,33,293186,25p1uAURmIM9Fvf8sBeZ7z,DJ Red Core,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+1IJ3lFNHkmsd1unfOzhpBu,Macho-Gwapito,0,182506,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7LVPEmRQQ6NN03aMUPGlav,DjRedCore Budots Anthem,31,277983,25p1uAURmIM9Fvf8sBeZ7z,DJ Red Core,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+3MktEQFErlU3BeJY1pFFU1,Follow The Leader,53,254306,"['2Dnfznf0gtIYzVNjihhKn0', '5xpiR1Prilw6RgHWfkln2H']","['The Soca Boys', 'Van B. King']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+2wVvCJbwHRwSNt6PlDcfV3,"Aussie, Aussie",46,301453,6TcTgRYJBQzadIFeXXWA3I,Andrew E.,1,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+7C9Knp9FzLY6RwgktmW9Ge,BMW,72,168205,"['0n4a5imdLBN24fIrBWoqrv', '4ISAzgKYMuonWbDhueeoEq']","['Because', 'Leslie']",2,0sxX2C2Z8sgBDW5zfzYrAW,opm dance craze
+0jfW1sHHxfinhSluUi200e,Kinikilig,0,225601,1IJ4wDIUWLb0XLmPN79SDj,Hazel Faith,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4VITZ85YVxmh6sSpk8XsWu,Natataranta,0,189400,24fEOzlKhgSNLIcy9NdmwH,James Reid,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5DdSN5U634K0bREQEbz6VI,Dati,53,240600,"['2P3aLwJ41aRYkyFFw2FRM7', '2j0vP8ZxbL4V0hBbHOjvrH', '3i56tClx1CsaoGJC8BKlhz']","['Sam Concepcion', 'Tippy Dos Santos', 'Quest']",3,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5Ptw2wrwzIJauYhxQUaQK9,Trip Lang,0,182773,"['5GdspZ491zr64zzwVJJjJZ', '2wAySc3vvZHYYCbrmlpSAk']","['Shehyee', 'Sam Pinto']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+6G3tTLzjROxw2KpZjUvICy,No Apology (Wala Akong Paki),0,166857,0touaoSr4QOLYxBJ9lmGgK,Karencitta,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3pxKwC2y3QapLo7Is83qRs,Kilometro,0,191213,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3fNpKcMrEDrnjahY9kN5fQ,Alab (Burning),44,182750,3g7vYcdDXnqnDKYFwqXBJP,SB19,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+510L5aUL8Q81tlygyHy5sE,Cebuana,0,210877,0touaoSr4QOLYxBJ9lmGgK,Karencitta,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,52,211200,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+57NF2cTqsTx11rOlNKkwWA,Chinito,49,226876,0DnjaQqb436AH1idffI6CQ,Yeng Constantino,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+2tzAN1L07SNwnOdgOEeuQr,Pauwi Nako,62,341573,"['0iqkVK6sTXi7DZWWOeKy8Q', '117XFtbZPnCI1EYKjYZWJc', '0uD1WQbTE0pNDiJe0iGEaU', '5MfvrLwRcs98YwS3C9Uf1u', '5xOvrnVpLjzfGi69GDlzQY', '3PDFGpPl4ienSn5Vwisfrh']","['PDL', 'Skusta Clee', 'Jnske', 'Bullet D', 'Yuridope', 'Flow G']",6,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5kqM2lbiX2slirLnrDSdCt,"Awitin Mo, Isasayaw Ko",0,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+03J3I8n0aTTbi6TwzRPx2W,Kapag Tumibok Ang Puso,0,242000,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3VPiejJ6KpSy8wUCHXj7uG,Modelong Charing,0,220706,5qHnDjdfxuRutgUbv1nf6f,Blakdyak,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3Yf5jxphlAhLOuqhO4UQA8,Chambe,34,205754,7F9FobwEoTXZRdi1MAUFjX,Alex Gonzaga,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5P1GlyYGuofTOWUDvHllcG,Chinito Problems,30,241237,6JOWPLiMEZPRrwyhn8gw8C,Enchong Dee,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4Kkt5kLHuryympAfBQ4bY5,Huwag Ka Nang Humirit,0,195226,24fEOzlKhgSNLIcy9NdmwH,James Reid,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+37fUC6JHAoEUFlu1xop6Jx,Randomantic,0,244520,24fEOzlKhgSNLIcy9NdmwH,James Reid,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5lKuohG8YQBK3gvmHcyb4o,Musikaw,0,236373,"['24fEOzlKhgSNLIcy9NdmwH', '5GHITvoYGNyDXasqbCIOhX']","['James Reid', 'Pio Balbuena']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4v2yxWNY3WCzB0YS9QJZP4,Byahe,59,249184,2U5mF0PZqGu6glnz55yY0y,John Roa,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+7l4NOgPCczq62tTtlhGR35,Tibay 'Yan,0,250000,"['0XOSmu9Qn1agQULUVe0dAK', '5n85IrVFHhxKEa65tcXFgW']","['Inigo Pascual', 'Alamat']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4T7CM071eEoHudiDShZlCJ,Tala,3,245053,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5WgmB8En0PJs5lM8Icv8Qu,Di Bale Na Lang,40,285884,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+7Ge2nDLuobn9GEyrxKXevq,Kakaibabe,0,210520,1dpv0XBdgUa5z4vzn7ahIz,Donnalyn,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+50YeUpUrI2oqxPRSQbn9bc,Lumang Tugtugin,26,211424,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5agBe62IW2TIkRr91R1Leo,Mahal Na Mahal,61,276960,2P3aLwJ41aRYkyFFw2FRM7,Sam Concepcion,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+0XcVmOI1djCh1rrQpEv2Pn,Happy Break Up,0,234706,1dpv0XBdgUa5z4vzn7ahIz,Donnalyn,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3Vgs7vderh6Ih8K42s3jnY,Miss Flawless,50,274000,"['3PDFGpPl4ienSn5Vwisfrh', '3xbpJdoJDLAfYn3ZeLlukg', '2ju5WPOa4B6YCMTqP2tzke']","['Flow G', 'Bosx1ne', 'Sachzna']",3,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+1DtErFZ8cHNGUYg7IBjnqG,Dyosa,0,217973,3Lm6KZ2WWaRdUNneczEhp5,Yumi Lacsamana,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4SS1u8rczYiLJvN5Z4v1aQ,Huwag Siya,0,254373,"['1dpv0XBdgUa5z4vzn7ahIz', '5GdspZ491zr64zzwVJJjJZ']","['Donnalyn', 'Shehyee']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+7kAAhLfz7oCylYeDKEBQGv,Dyosa,61,272184,"['117XFtbZPnCI1EYKjYZWJc', '5kHRmP4gj6ILjma9CPv1ju']","['Skusta Clee', 'Bullet D']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+1ZVtBCjGpGmTLWyDn9AFc6,My Morena Girl,0,238320,1vvD9XGQVmNtKsyPW7TFcZ,Hey Joe Show,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+6K04QnyFXYKqLUFCIaSigy,Biglang Liko,3,253000,"['6eGQ0qPUlGBjmRgyQ84g3f', '7CUr4IIEAbSm9HTIDm8R1K']","['Ron Henley', 'Pow Chavez']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4bZOpU6RsyEGdwMRZnMx4O,'Di Ko Alam,0,216253,"['77y4D50m5EAQjB0x7XW7Lc', '7HYRik99TtMZbtolOjU4aO']","['Yassi Pressman', 'Andre Paras']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+2It2xWAU6FZ2lQINGEr7xY,Balang Araw,0,229333,5EYueQhQLWYvB1NVBfHpFs,Julian Trono,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+68BMalruEU7XJY9YI20ayD,Pilipina,0,202711,"['0touaoSr4QOLYxBJ9lmGgK', '3mzdfGKp0mQXzuNoS8z915']","['Karencitta', 'Cookie$']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3iZB3VUDerY5P96rhBKwKr,Dalaga,57,192940,0YrWkiT8pKvEu71t5Yllj7,Arvey,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4rwC4wRfMtTigUckV2vBxe,Sirena,50,278480,"['7HJDRQAfEcFiARVehhM6qD', '543f0NvGig5Moo9XROTUur']","['Gloc 9', 'Ebe Dancel']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+62aa4ZnQGgF8gXzzvWRJhG,BMW,8,168205,"['0n4a5imdLBN24fIrBWoqrv', '4ISAzgKYMuonWbDhueeoEq']","['Because', 'Leslie']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+3R6Hl2e7hAyCfofRRToKAo,Malayo Ka Man,59,254139,"['3r0NbTTxtCBUyxcIR4prXr', '6EJq8HkmiNvcbGyKGNs43M', '1mu7fvV0tXEx4O3NROKgze', '0lLCFkAncltHh96BcwLU0b']","['Jr Crown', 'Kath', 'Cyclone', 'Young Weezy']",4,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+0zANeX4R6uWb82gCQAguOD,Habang Buhay,70,244067,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4Au8x9yPZzjosuqdIzAi4O,Hinog Na Ang Mundo,14,156565,6ksOqGTAz5NsWNrEWJjVrZ,iDolls,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+7bUvgvAf0tdQIty95lV5wf,Dance With You,61,244321,"['117XFtbZPnCI1EYKjYZWJc', '5xOvrnVpLjzfGi69GDlzQY']","['Skusta Clee', 'Yuridope']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+1h2deYbt0Z67mh56RSrftX,No Erase,0,219106,"['24fEOzlKhgSNLIcy9NdmwH', '17Do37U0HEbxu1tOrKH8dL']","['James Reid', 'Nadine Lustre']",2,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+152sJgmftB46Q6IsDTUDLN,Diwata (Miss Universe Philippines 2021),69,210959,2P3aLwJ41aRYkyFFw2FRM7,Sam Concepcion,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+7Htw22IIJ6DF9iPGznrR9t,Wasted,57,277687,"['0RptGZKWMZM1HX8SK3bEcm', '1ugycLfwsjOuoRT0y8DZMj', '4hOq1IlgRnPNjsbJRCgK0B', '7C1EQQrRm5rIJQuLOzVE3y', '2FGYJ3WqsLqkv65pO5NYYQ']","['J emm Dahon', 'King Lheanard', 'Kushin', 'Aeron.J', 'Guthrie Nikolao']",5,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5MYPzdIWgx3pMLRGlq2fVq,Asan Ka Na Ba,74,241132,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+5zoJ1eChvongUvr14bzckH,Na Na Na,53,251076,7tNO3vJC9zlHy2IJOx34ga,BINI,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+0s3blMulBSWhJoA6Cezb6Z,AMAKABOGERA,58,185142,4JliYPIw09GespZAmZv6rI,Maymay Entrata,1,3pucGR1qdYiz7AQNj3fzSR,Opm dance pop
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,52,211200,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+5mvfGweAVJVxCSKRmsZ3RC,Totoy Bibbo,43,228362,4p4ijAouEvVH1advAWxJWG,Vhong Navarro,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+0BaMZMMEG7GWrUYsoGw8Yg,Neneng B,0,358015,"['3lFMRWaEWZlfXdBig97kks', '060TqET6tyyfAQLXDyIDD8']","['Nik Makino', 'Raf Davis']",2,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+0roPkFbVWfUPo9d7WtwgIu,Dayang Dayang - Narigat Ti Napili,32,243559,"['317sZ5Tefi3Nb3ZsU5Y2sK', '7tUEF1dZTiAtRSvwSAWwF0']","['Bukros Singers', 'Melo Santiago']",2,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+1K2a2FNsthUSXu3ujJDO56,Sasakyan Kita,0,238880,4AvwdY7LTgEtkxMMm66Vfe,Gladys and the Boxers,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+3VPiejJ6KpSy8wUCHXj7uG,Modelong Charing,0,220706,5qHnDjdfxuRutgUbv1nf6f,Blakdyak,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+5kqM2lbiX2slirLnrDSdCt,"Awitin Mo, Isasayaw Ko",0,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+3SrARmZw4JdKmhmPLYphFl,Boom Panes,26,191413,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+5VYYbxfFwaJBFgIgB6cwlM,Disco Fever,0,215826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+3bSgXHfmcYNMgqJGTauGdZ,I-Swing Mo Ako,0,175226,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+6hPBZmWo9tPlIN9jtZROZK,Nosi Balasi,0,263066,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+6sJyD4XrxVSbdOIUoUc6qm,Anak,0,236093,7fihhreD4v29FQsWykhCJm,Freddie Aguilar,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+56ryEPmmwJ0TVqdUe5oHb7,Tayo'y Mga Pinoy,0,264733,1Q5YLiz82Mo75MIQMt9XON,Banyuhay Ni Heber,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+7sQFLsvWP6THMj7yNITBKA,Kapayapaan,1,286000,5jjulx3unldBbDDqduPA7u,Tropical Depression,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+135ggzbjOogZ75IQ0LQi8r,Ang Huling El Bimbo,64,447333,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+1uaaKWHZStA8PI21lAzdIn,Lord Patawad,0,305946,24GNt8qmlsj3hwYgRgiTQ9,Bassilyo,1,2VlNJENLGLfKILXjTC3L8U,OPM Danceable Zumba
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+5GMyYDPAowISXa36Tx9I9Q,"Awitin Mo, Isasayaw Ko",1,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+711uAyufCK44a9XZlD35vB,Disco Fever,0,215826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1GNcZErSrwbJO0AaNA3a8v,Mr. Disco,31,242066,3lAC3q0zkzBypNwjBLBvFx,Manilyn Reynes,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+03J3I8n0aTTbi6TwzRPx2W,Kapag Tumibok Ang Puso,0,242000,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+3XSUrGa2uFUk0hsRf7PohZ,Urong-Sulong,0,209493,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+6tuDAghuL3WOHxt2GEzxVV,Mr. Kupido,40,221152,4oMk1QJuMWUWrNmchRJGWL,Rachel Alejandro,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+0r4ntnBbIFueu9Cd3bcyF5,The Spageti Song (feat. Joey De Leon),41,231640,"['4HuN4J7CJxP3Y3FizjNxXa', '204rRUtZ6aVfefn4b0DW62']","['Sexbomb Girls', 'Joey De Leon']",2,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+5ElggyFOoCXycgAfFqZe6D,Itaktak Mo,35,196453,204rRUtZ6aVfefn4b0DW62,Joey De Leon,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+5FBsh99SQtDDBbZ8AwLxx2,Kendeng Kendeng,0,177680,0ZXi1NG0Wwlaj70Qn25mAr,Willie Revillame,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+33YnTQlXPkkNcFII2cdGzS,Cha-Cha Dabarkads,0,213554,"['6P1UVtkZUxfhnLnQWCSUXv', '0YUCN1HcMFV3ydjclQqeBX']","['Eat Bulaga Dabarkads', 'Ryzza Mae Dizon']",2,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1rZfBVDe8CpVjdDidPRUBP,Shembot,0,158488,6P1UVtkZUxfhnLnQWCSUXv,Eat Bulaga Dabarkads,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+5Bx5rFkH7QqEhFo7lLrrVi,Kagat Labi - Eat Bulaga Version,19,196571,204rRUtZ6aVfefn4b0DW62,Joey De Leon,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1bRGzgZC3WwoSTz2ILUGxV,Sabay Sabay Tayo,35,186426,09SDp08zijiSCPkOEPd6Er,Marian Rivera,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1GRL6bAJi2kFxqYkGgyOo5,Kikay,0,230506,1lVlO2lXDFRAkQ8WygGu4G,Viva Hotbabes,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1RrB5dq2qeF4c7QTxn5WAH,Sayaw Mga Choy (Math Dance Challenge),41,246370,31i11xjYdkhOySZC9L2JPO,DjDanz Remix,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+3UL6Lzsocv9Ucizgzid2B0,We like to Party! (The Vengabus),32,222458,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1QVWRQ0BO4G1B4DgFjrACF,Mamang Sorbetero,39,190666,20gOeXI8NLUKdSr9Z4YeD6,Celeste Legaspi,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+4GG9zkmCfN0ESxXyErHfep,Ale,26,273066,2hk1NCZ5BypYFAaygX8Ilu,Richard Reynoso,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+7gMgPpuKn7pq7V39wLwGec,Manila Girl,43,177098,5YLXhjQdVWkWgW3LEojsrh,Put3ska,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+7mmnql6xmYP03z5f3VVQSI,High School,0,228000,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+0rxHJznkwYizh1C4on9Bad,Yugyugan Na,26,151185,4Ubb1fu2ERYr9YzPFKKQfU,The Advisors,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+0016r4MRcbuZUXcS31biFf,Whoops Kirri - Christmas Version,23,210964,1cJBql701w5uDxpIyqeujX,Vice Ganda,1,17XLZy2Xa6Oc9uhYrf2Gv0,OPM DANCE CLASSIC
+1S4vILROGmgYIbk9hyPKLy,Dying Inside to Hold You,54,219400,7JLwBH0X2G8tgHceqvOu5B,Timmy Thomas,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+75CgD6l7K4qMzZrn4CbZqz,Stars,69,248599,1fa0cOhromAZdq2xRA4vv8,Simply Red,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+22HtUL15t41OTL6ArUQ4Gb,Always - 2009 Remastered Version,0,242440,0z5DFXmhT4ZNzWElsM7V89,Erasure,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+10DJDlVQGnJffZqTU0JUZ8,Due (Due),0,298813,3rlKqNmhaP9UiC0wFQyFS3,Raf,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5AoBNJQDXXEnIJGjJjZu3y,Just Another Day,66,327426,10n1KB2sjTrGdyuC83y8jW,Jon Secada,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2V1oneSeRhiORKGq6i2cCa,Close To You,51,293799,0lHoDF96DNKSIcIpcOfMnq,Whigfield,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3LEJmRkLIOo01U3VhI0hnf,Make It Easy On Me,0,255466,1EbIfIjVcauDatNO4vagL1,Sybil,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2QXeYzNsXgtI4YLeyr42aj,Don't Make Me Over,42,243426,1EbIfIjVcauDatNO4vagL1,Sybil,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+4lwUpqUd1uZKve6swy9SM7,I Love Your Smile,0,257973,0Ttph0pOZiPNTD3y2wUUb6,Shanice,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1DTW4Nj6qDCBTllScSGjf5,Sweet Soul Revue,41,287000,6UPj5fzhm6NhCF9Ek8c6pZ,Mango Season,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0jTsODpz9AXkZGifBXRs2U,Feel Like dance - Original Mix,35,353800,5O6t6gb6MeNqzOBAq1oLad,globe,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+30TAqC5wzM0CbUDt4Hdr6j,Why,0,293733,5MspMQqdVbdwP6ax3GXqum,Annie Lennox,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+71l3vuGXw86CznIcze66tH,Zoom - Radio Mix,29,259133,0DapOnrmvQGwToOmgk6Fz8,Fat Larry's Band,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3N47G9kLMXq0edKgXFuc0R,On ne s'aimera plus jamais,48,227933,07sMHU0vu01xrz1gnNrNry,Larusso,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3rcNGUOJ0mPOUcAFUlEyT3,Set Adrift on Memory Bliss (Re-Recorded),0,235800,5DgjOwTN6o76J5Gf8MzEoL,P.M. Dawn,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2O9fBPbFLAUrA1PRNqZAC1,Stars - Comprende Mix; 2008 Remaster,40,398666,"['1fa0cOhromAZdq2xRA4vv8', '5DgjOwTN6o76J5Gf8MzEoL']","['Simply Red', 'P.M. Dawn']",2,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1w09YJ2UvJvCR4q0W44snv,Do You Believe in Me,50,258266,0NANKIINMQ9u4DYD5YqM0L,Eric Gadd,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7tjbm60E0t7SerbiG61cce,Love You Down,54,262291,5IUvXYeMtVmp8YJWf0eqvf,INOJ,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0hrBpAOgrt8RXigk83LLNE,The Sign,72,191240,5ksRONqssB7BR161NTtJAm,Ace of Base,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7BakrgULQePsPDnSsAxsMg,Hey,52,251936,6HzXy1FnFAPyaNmyXuPJL3,Fatima Rainey,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7wdFJbQooaXWEdjD9dSiBH,Time After Time,47,254026,5IUvXYeMtVmp8YJWf0eqvf,INOJ,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6LkN60y8vrVSFsam9hAIxa,How Gee,52,269506,2HW8QrmykJDpycE1lo5Uj4,Black Machine,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5Q8Pd8K4i6JDQPr52UAFXe,Raggamuffin Girl,35,291493,1lha723uyAuKmq7bmnykDr,Dookie Boomz,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+4c0rkFPszqQTyC753tsCMU,My Boo - Hitman's Club Mix,62,346840,4JbmXqez7WvTggoxn3UpVT,Ghost Town DJs,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2828IPGCeOSUFmh1zpKK4U,Lick It - 20 Fingers Radio Mix,47,215093,"['0OarfYzJPCi3lAVZ4nhTTd', '5kxZthrgsEh5bONnKr56eO']","['20 Fingers', 'Roula']",2,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7ahAom5NZZVEMRynCruscZ,Ever After,53,302213,1mCY2mHctggfYiEqpCgcSz,Bonnie Bailey,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+48LssaV9HGhvHPYpT2uUev,All I Want,52,247361,5IUvXYeMtVmp8YJWf0eqvf,INOJ,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1nzjeO7MTCENB5BswwiwFA,Selfish,44,217280,1SjjeKlydHlQUR0RSRA6ot,Sunset Daze,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1GrikfH0jDejDvrxo84n4P,Together Again,67,301200,4qwGe91Bz9K2T8jXTZ815W,Janet Jackson,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0Y6z0WSMQpTpj4kQArPnmK,Come Baby Come,0,239733,23H1ellgs9wxOBx2V0fkao,K7,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3ldG6XCLDXxWg1N6XhrSKo,Shy Guy,62,258560,221iMiF62DFPnVuCLJakP1,Diana King,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1PEqh7awkpuepLBSq8ZwqD,I Love You Always Forever,70,239960,2EfG2EoT8GFJrMiilbTVl2,Donna Lewis,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3NYgpHe5Lcz0LoXVeZwmRN,Pink Life,44,283237,6mGpiKdNuNnNPxnN7AY8eK,Gyskard,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6hpkEh9z1tuhOQPlCunMaj,Do You Miss Me?,7,218253,5hgxMFtaWAhh6LDHdVBZLB,Jocelyn Enriquez,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7MjTPvXSAYB1NyzXLQKsMn,Oh Carolina,50,190893,5EvFsr3kj42KNv97ZEnqij,Shaggy,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+74jTexO94dFGyXGyeu8krd,Beautiful Life,65,221186,5ksRONqssB7BR161NTtJAm,Ace of Base,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0SAIjVOwxVnO1l9HGvLuOU,Tootsee Roll (Dance Version),53,261360,7qeBsFLeNEuzrDhDMbnDwF,69 Boyz,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+13hgvTRvAXCjcv97LpjDOg,Gonna Get Your Love - Radio Edit,38,205426,"['3bIjKdVVoGI47DgreG3sJC', '0ERlSQYKbVyhg74h9uChyO', '1HQcOaGJzpSkk6xfQWv9Jn']","['S-SENSE', 'Jenny B', 'Rivaz']",3,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+39xWOSmThIXTbFhIqhq09h,Dove ( I'll Be Loving You ) - Radio Edit,0,243720,1FXHK05nyBt3fmMYfQljRi,Moony,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+1Bt54fN9lSTUDxjPx08PEF,Selfish (Extended Mix),35,320386,1SjjeKlydHlQUR0RSRA6ot,Sunset Daze,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3egL3Vnd8iNRpkytmn5Zl2,The Funk Phenomena,46,417200,"['3cQA9WH8liZfeja1DxcDYE', '3eKGOpNDud6NlcxJgHKn4w']","['Armand Van Helden', 'Old Skool Junkies']",2,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2LjiPAQOVazT8sRyXL3XRs,Informer,64,268910,3uZFBSsMiooimnprFL9jD1,Snow,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+4fazGt0v2v2zkzddQOcDZD,Don't Call Me Baby,57,228140,6otgz5gkB40UnWFwTy0VDh,Madison Avenue,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6jcGU9bYyeMEiEVcG82gls,Just the Way You Are - Extended Mix,0,377260,5AvCP5qzxTmk4cQmh0SUEw,Milky,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0eEVNYdzmuZZPFzfTokhXv,Magic Carpet Ride - Original,42,487946,0tOB8FBc9x40nYR1k3e8pZ,Mighty Dub Katz,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6sQ41j7G8kyhirJxBoI6gs,Shalala Lala,26,214819,0cwmNvclzPd8mQnoHuIksj,Vengaboys,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+4sutLmjkVKRN6pOAMo2joC,"Tom's Diner - 7"" Version",54,227866,"['2rGm8R7YDTbqDCVlNssQyL', '3X0tJzVYoWlfjLYI0Ridsw', '4a09epliVikRqsBczNwZb2', '1VOvPysGbgHhsfKA6NaKnl']","['DNA', 'Suzanne Vega', 'Neal Slateford', 'Nick Batt']",4,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6o3r8LmadVJg7olM4CcKlg,Ging Gang Goolly - Radio Mix,34,193666,0mzrqjlVPKWw0c2jyr8T1X,Inner Kneipe,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0pMUR7Uvp6vxlbG0qBFvgM,Better Off Alone,43,214883,2tbvDi9eXf9XXp06LupkED,Alice Deejay,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3tlRGvVZWleW4ZNncqVNI9,The Bomb! (These Sounds Fall Into My Mind),0,205760,"['1TrfxjXu8quyDw05p2bacX', '1yjuFciXmV3NaPCzwwHclC']","['Kenny Dope', 'The Bucketheads']",2,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5vLrq5a7Vx1bW7yrDqMi8y,Never Get To Heaven,27,347600,6fZbSso7sTdXwiw6jo9Fp3,54-46,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+49diihiMCvja4kdzs0EhT1,Asi Me Gusta,45,365120,5v8i5bIYoqGgrh9SLpclfd,Chimo Bayo,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5DAGLww9bmx7fVqVS5wpSt,Zoom - Remix,34,306093,0DapOnrmvQGwToOmgk6Fz8,Fat Larry's Band,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0DiWol3AO6WpXZgp0goxAV,One More Time,77,320357,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5rYJbmPYDaC4yJ8toRSrof,Boom Shack-A-Lak,50,271333,4sLklwvfOYr12fMGwrnlc7,Apache Indian,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+3QRM0qZB7oMYavveH0iEqx,Here Comes the Hotstepper - Heartical Mix,0,250466,"['1VJspRsoC6c0bvqhnSiFCs', '0rlS0SzVFk8BoiAW0fGBbN']","['Ini Kamoze', 'Salaam Remi']",2,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7uqT2pl778yZs0D1YG3Lqu,Just the Way You Are - Full Intention Radio Mix,0,193880,5AvCP5qzxTmk4cQmh0SUEw,Milky,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0lnxrQAd9ZxbhBBe7d8FO8,MMMBop,72,268653,0SdiiPkr02EUdekHZJkt58,Hanson,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+0klZpFX0a84jdkqzPNrLQs,You To Me Are Everything,60,209733,1NUD5By34MFynmuUynCfSj,The Real Thing,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+7eheoW4hxrH51ww2QePVwF,Gonna Make You Sweat (Everybody Dance Now),68,244093,7krx6UBDKLwE0q3s3fesqF,C & C Music Factory,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6846TjreNsHKLGHGyiZTQ7,So Dem A Com,27,210506,53I4RAzuXWvaO1vzrCBJbD,E-Type,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+6EBDmMZBQkWrj7jWlGhFU1,Doctor Jones,65,203440,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+5ZrDlcxIDZyjOzHdYW1ydr,Barbie Girl,76,197960,6kBjAFKyd0he7LiA5GQ3Gz,Aqua,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+2DvWVUrRXB0HYrjDqQWjjt,The Sign - Long Version,36,284733,5ksRONqssB7BR161NTtJAm,Ace of Base,1,5aPHZEKwshaFS8KRCrBsrG,Dongs 90's opm dance
+44DFYt0ybr09tBuSdgXQ0e,"Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite",32,398386,"['5pHl48Qt0o8R9bz2Za1Og2', '204rRUtZ6aVfefn4b0DW62', '0ShRjC0zeITfzfuMYcvuEW', '3e5vfyOzKWkvhndSINSncR', '2lXnAsBWMKIMH2h2KdfOpA', '1UBtquuUSFe0uhz662TicE', '5yVM85m9yNcHO6o0vaaVxW']","['Vic Sotto', 'Joey De Leon', 'Mike Hanopol', 'Charo Unite', 'Ernie Dela Pena', 'ABS-CBN Philharmonic Orchestra', 'Daniel Padilla']",7,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+4oPQ8iwVb7GINpsQ9k1zW2,Awitin Mo at Isasayaw Ko,0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+0fq2dlauo1fH4tclsXd26i,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+05ZBTOH6RLA3oaSRbbUs8j,"Rock, baby, Rock",0,233413,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+2dsMR11aapObCMpjNFxYLN,"Awitin Mo, Isasayaw Ko",0,278960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+3LLWD2BbAtDQRMVWB3X2qw,Swing,0,258079,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+2zR0YC65qKjYaAP4lTJZhP,The Disco Rock,0,189373,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+0wuAxX9bQnOBSy3NnpKyN3,Manila,0,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+5eR4bopJWb9x9CeY16VgjD,Manila,37,174160,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+0bFATMUiZOpzWhny5zIew1,"Beh, Buti Nga",26,163346,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+5R0LVBRsiJNyKg7sfOZME5,Ikaw ang aking mahal,0,201400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+0m7ZGgr9baXIaO9AQlc7kK,Bonggahan,0,225026,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+2yNaxIOLAk16AO52Ce0yZ3,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+0rxHJznkwYizh1C4on9Bad,Yugyugan Na,26,151185,4Ubb1fu2ERYr9YzPFKKQfU,The Advisors,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+037VNiaoQ5um3zayGqMiLB,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,47uXgmnXY6qZWNwGzdIRof,OLD SCHOOL OPM Dance RETRO
+6IdEQ3HUseBeRUYFSzSMdL,Zebbiana,61,304664,117XFtbZPnCI1EYKjYZWJc,Skusta Clee,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,52,211200,0XOSmu9Qn1agQULUVe0dAK,Inigo Pascual,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+2oIOKxyGtWu2Uwf2okx7xK,Unli,29,195421,65NJtjyV3wU1O23KtXWSyw,BoybandPH,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+64RIitfD2Oyb7lunShQxpm,Ano Bang Meron,42,185276,4Crh3CE80Fr8RJ905XRdGB,Rayt Carreon,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3us3yACYidjyZwm9to0czY,Magandang Dilag,55,237818,"['2JyNzzFJh2wkkZo7ZjMSs2', '0rx2UZbWDlT7ODEHARgi1L']","['JM Bales', 'KVN']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+7bUvgvAf0tdQIty95lV5wf,Dance With You,61,244321,"['117XFtbZPnCI1EYKjYZWJc', '5xOvrnVpLjzfGi69GDlzQY']","['Skusta Clee', 'Yuridope']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4T7CM071eEoHudiDShZlCJ,Tala,3,245053,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3a22L5P9cix1HFNzjb3SpB,Sulyap,52,255530,"['3r0NbTTxtCBUyxcIR4prXr', '0TlpoVBa03V0XNXBq7Gjrh', '1BRWy7wxFVAwIgkKSKv3mg']","['Jr Crown', 'Thome', 'Chris Line']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+34ob61cxp34Sf7KHK6RnSU,Sa Susunod Na Lang,65,214606,"['0iqkVK6sTXi7DZWWOeKy8Q', '117XFtbZPnCI1EYKjYZWJc', '5xOvrnVpLjzfGi69GDlzQY']","['PDL', 'Skusta Clee', 'Yuridope']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+5VoY18OYEE2E6RJCBd2jki,Go Up,52,189047,3g7vYcdDXnqnDKYFwqXBJP,SB19,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4YMfE4r1JWADFw2Fn74XW2,Catriona,55,204512,1SrWbIDP84JcSDr0oTBAQw,Matthaios,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+1HwqhHqR60FCREzLkpnhiQ,BamBamBam,0,211182,0touaoSr4QOLYxBJ9lmGgK,Karencitta,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3R6Hl2e7hAyCfofRRToKAo,Malayo Ka Man,59,254139,"['3r0NbTTxtCBUyxcIR4prXr', '6EJq8HkmiNvcbGyKGNs43M', '1mu7fvV0tXEx4O3NROKgze', '0lLCFkAncltHh96BcwLU0b']","['Jr Crown', 'Kath', 'Cyclone', 'Young Weezy']",4,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4nd9cEo5R4jGNcgPHDm7Ar,Marikit,5,263348,"['6kyw9sh7ryjy1GQdPYH3Yd', '1EMaB1ZnRpeXWruJZMtaUa']","['Juan Caoile', 'Kyleswish']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+1hIqfuatTJEsjWfPOQ3dYp,Pag Tumingin Ka Akin Ka,41,227977,"['11VAw1gSlLWsc2RS9UcyHk', '7tiYEpNsb7Jgby6NB6jKfh', '0pUx4FLdw1NRqux4Yxj0ri']","['Princess Thea', 'Yayoi', 'Still One']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+2mwd0LWLBgtQBEOLG96nbU,Bagay Tayo,2,397033,0WleeEe3UurwlNbDGhb5Yz,ALLMO$T,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+7iNMzfw2couNdTNXMYG2IR,Filipina Girl,1,218133,"['43CiK1548VVp2DT95joswS', '63mE8E2Q1P6J5ibuqE2Kau', '24fEOzlKhgSNLIcy9NdmwH']","['Billy Crawford', 'Marcus Davis', 'James Reid']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3Vgs7vderh6Ih8K42s3jnY,Miss Flawless,50,274000,"['3PDFGpPl4ienSn5Vwisfrh', '3xbpJdoJDLAfYn3ZeLlukg', '2ju5WPOa4B6YCMTqP2tzke']","['Flow G', 'Bosx1ne', 'Sachzna']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+54b8IPvheXDpro2VR2rWAS,Ivana,3,246550,2EGJbNf0Hva2C2N6hvhMXD,Soulstice,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+79B6nlrt5xJMvzcJXWSPip,Raise Your Flag,39,249394,"['1mcqfNCReSFxun2vIWvC28', '3YMD25xZdbAyoezzh29lgm']","['KZ Tandingan', 'Kritiko']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+5Qb6FrDW7ehrglaXBgzPTE,Imposible,52,256715,"['1mcqfNCReSFxun2vIWvC28', '6ogIjp0fsbUxlqy9q2rvrT']","['KZ Tandingan', 'Shanti Dope']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+2tzAN1L07SNwnOdgOEeuQr,Pauwi Nako,62,341573,"['0iqkVK6sTXi7DZWWOeKy8Q', '117XFtbZPnCI1EYKjYZWJc', '0uD1WQbTE0pNDiJe0iGEaU', '5MfvrLwRcs98YwS3C9Uf1u', '5xOvrnVpLjzfGi69GDlzQY', '3PDFGpPl4ienSn5Vwisfrh']","['PDL', 'Skusta Clee', 'Jnske', 'Bullet D', 'Yuridope', 'Flow G']",6,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+13pv5UWJttg8NNplCaaOYh,Binibini,51,137717,"['1SrWbIDP84JcSDr0oTBAQw', '3WyQJx169swY8v3htgAqaK']","['Matthaios', 'Calvin De Leon']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4sZdwWXOZqGZuT1PLelGgt,MAD,47,193032,"['30DIeQNV9s1HEXyuCpGF4l', '1juIpte4oHJ5ngVLPTUPuJ']","['Khel Pangilinan', 'Justin Vasquez']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+7pa4kToAE3b6Gtk7fWrsLl,Dati (feat. Skusta Clee),59,197192,"['2U5mF0PZqGu6glnz55yY0y', '117XFtbZPnCI1EYKjYZWJc']","['John Roa', 'Skusta Clee']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+1DtErFZ8cHNGUYg7IBjnqG,Dyosa,0,217973,3Lm6KZ2WWaRdUNneczEhp5,Yumi Lacsamana,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+0Go1Yiv0iIjmckmoI6gqnG,"Simpleng Tao - From ""James and Pat and Dave",48,257009,3BdpcQRF27n7ZNSL386mNU,Zephanie,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3pxKwC2y3QapLo7Is83qRs,Kilometro,0,191213,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+5nu0Fdz2J2qL292uHJJEzo,Answer The Phone,35,198320,4PINIuQ6zcjifa1Nw3btfR,Roxie,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+01L5DQk8LKPribM84GRREr,Please Lang,28,252391,"['7F9FobwEoTXZRdi1MAUFjX', '5BAyYwbv8OSfqeXMjPgWX6']","['Alex Gonzaga', 'Toni Gonzaga']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+29aPYime2gCXt4vEoclx28,"Sumayaw Sa Indak (Official Movie Soundtrack from ""Indak"")",0,213520,"['17Do37U0HEbxu1tOrKH8dL', '5GHITvoYGNyDXasqbCIOhX', '5GdspZ491zr64zzwVJJjJZ']","['Nadine Lustre', 'Pio Balbuena', 'Shehyee']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3s2sCot0z51n1tcPAyztgb,"Kiss Me, Kiss Me",0,208695,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3sWLOFGI7dNN6YBM1m1RKB,Miracle Nights,4,374117,"['0WleeEe3UurwlNbDGhb5Yz', '58DoiT68nhZoGfdiIZiiUw', '4mHU0bUvlVfiq0oarPYlAn']","['ALLMO$T', 'L.A. GOON$', 'Peso Mercado']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+0f4UsNWSkzFp0Q1UfmghXs,Bawal Lumabas - The Classroom Song,23,178812,5rmy4yOHBOptMctO6t5Drl,Kim Chiu,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4v2yxWNY3WCzB0YS9QJZP4,Byahe,59,249184,2U5mF0PZqGu6glnz55yY0y,John Roa,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+2c3qGxuFopO5OttLtYC9Zo,Binibining Filipina,28,227000,6pvQWqU8W5KNztS5MnMUdz,Elaine Duran,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4j1FZK4CwYAux7Aq2PjVtU,Ate Sandali,40,198708,4bOVj4CTZ1WzSIiWRG9b3n,Maris Racal,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+2dZH4lnktxnomy2GtezbgH,Zebbiana,35,250592,73dgrlUNeTLiZFL1BpNVlw,Sam Mangubat,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+7pzMsgcRpO7Z1tRex3yWvO,The Zebbiaanaa,0,200156,"['3PDFGpPl4ienSn5Vwisfrh', '117XFtbZPnCI1EYKjYZWJc', '00xU4wfephkJrjwJPDvfkf']","['Flow G', 'Skusta Clee', 'O.C. Dawgs']",3,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3Yf5jxphlAhLOuqhO4UQA8,Chambe,34,205754,7F9FobwEoTXZRdi1MAUFjX,Alex Gonzaga,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3y9yjy3jfngNoC8WEZRtPS,Hinahanap Ng Puso,55,262560,"['7HJDRQAfEcFiARVehhM6qD', '5q1FQpCXqYWMsxJVF1GKOb']","['Gloc 9', 'Hannah Romawac']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+3ssrEbk0wDkr6McMbmhK60,Omo,46,284000,1dpv0XBdgUa5z4vzn7ahIz,Donnalyn,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+0s3blMulBSWhJoA6Cezb6Z,AMAKABOGERA,58,185142,4JliYPIw09GespZAmZv6rI,Maymay Entrata,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+55HcwpBtgFIKmY1v1OZss8,Kulay (Miss Universe Philippines 2021),39,249712,10bk3EHVC30yi6F10nmvL8,BGYO,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+62aa4ZnQGgF8gXzzvWRJhG,BMW,8,168205,"['0n4a5imdLBN24fIrBWoqrv', '4ISAzgKYMuonWbDhueeoEq']","['Because', 'Leslie']",2,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+0DnNMu0v71ICscsyuQgmu3,WIN YOUR HEART,55,209531,3g7vYcdDXnqnDKYFwqXBJP,SB19,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+5fuBcv4rZP0mtjNSj3UPsk,Tumitigil Ang Mundo,54,247670,10bk3EHVC30yi6F10nmvL8,BGYO,1,6dgHp8sdwo4Bf6rWAYev2X,OPM Dance Hits
+4oPQ8iwVb7GINpsQ9k1zW2,Awitin Mo at Isasayaw Ko,0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+7MOPgkgWFgJhKe1wQvolMk,Disco Fever,0,218400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+3m5IaeeOucNwc7eW6DQGfM,Ikaw ang aking mahal,0,203226,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0fq2dlauo1fH4tclsXd26i,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+05ZBTOH6RLA3oaSRbbUs8j,"Rock, baby, Rock",0,233413,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+3LLWD2BbAtDQRMVWB3X2qw,Swing,0,258079,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+2zR0YC65qKjYaAP4lTJZhP,The Disco Rock,0,189373,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0wuAxX9bQnOBSy3NnpKyN3,Manila,0,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+3QUAD90ZpaoMH72ARt6rcH,Sayawan,0,237040,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0m7ZGgr9baXIaO9AQlc7kK,Bonggahan,0,225026,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0zMVaFBCvpYbz9Du9HQrgT,Rak en' rol,0,206373,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6IA5SB14gD7wclnqTW1u0h,Dance with Me,31,222406,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0sxzBNCIfWG6nD04MGUR49,Disco Medley,19,299253,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1ntStv6ufp9GOAL62OUnaK,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+7igjFJD3Wr3tcGLLwV82fX,Mahirap Magmahal Ng Syota Ng Iba,0,142333,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+45PkLXO3enxMoo4MVid5Zm,Babaero,0,315506,05QLUMCFhUj7MAtXVPsvPR,Randy Santiago,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+4nHaxoW9jK2BqJw8Wk2hfB,Laguna,0,324053,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0vtB6WImXy3fEaSQlHBQsH,Kay Ganda Ng Ating Musika,0,224226,4u6tIl0ae3m9HUtUubJsa6,Hajji Alejandro,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+70M6GGBEHtjqD1J2kr4VAv,Tuloy Pa Rin Ako,0,188920,0NixHJK8GtSdzy89dQRk1q,Labuyo,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1jIDngPbr4FFRkpjfCKvAy,Kumusta Mga Kaibigan,0,176040,0zKwr7JUMKsZyOcx6citLx,Maria Cafra,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+2q7n3m8ISuN82Gh2BBXzr1,Laki sa Layaw,0,178533,0ShRjC0zeITfzfuMYcvuEW,Mike Hanopol,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0lOTIHCj62MBTX6fLqEJrQ,Macho Gwapito,0,181693,"['77hvqYqKgIrS1SC0BhRdQx', '0U5hMSpWpwMhB4VFnbfGFO', '5xWPJKDLLSDaz7K7tSMTFu']","['RICO J PUNO', 'Marco Sison', 'REY VALERA']",3,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6sJyD4XrxVSbdOIUoUc6qm,Anak,0,236093,7fihhreD4v29FQsWykhCJm,Freddie Aguilar,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1IJ3lFNHkmsd1unfOzhpBu,Macho-Gwapito,0,182506,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+66SKMOTNm0w3IyrhWFCzCV,Nanggigigil,0,282333,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+3HIhiPwXhmXJ86POZjv96V,Lalake,0,267000,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+43R7J80hZhUOfBdybaSuTr,I-Swing Mo Ako,0,174826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1QVWRQ0BO4G1B4DgFjrACF,Mamang Sorbetero,39,190666,20gOeXI8NLUKdSr9Z4YeD6,Celeste Legaspi,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1K2a2FNsthUSXu3ujJDO56,Sasakyan Kita,0,238880,4AvwdY7LTgEtkxMMm66Vfe,Gladys and the Boxers,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6p8tXqoS3g3aKW0BTCdeL2,Ang Boyfriend kong Baduy,0,173000,65QcnpMJFv1yogXwoOe97v,Cinderella,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+4GG9zkmCfN0ESxXyErHfep,Ale,26,273066,2hk1NCZ5BypYFAaygX8Ilu,Richard Reynoso,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+5PiiwyHh3fh96ON64WjHH3,May I Have This Dance,0,228493,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+5DaPq93UhOAu0b16Nyn1Mz,Pumapatak Ang Ulan,48,170640,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6ATlnyoJlTAPAJOPxLDZaM,"Step No, Step Yes",0,171866,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0cfQyjxj9wY5NKVzNOURoZ,Bikining Itim,26,169575,6xUh63jpjIRA6N3heQWWhd,Bert Dominic,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0C8ARs4OS9bgZUgyW9x6Ye,Kiss…Kiss,0,255000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+7H6bVX3LMjiMDUKYTsBHU6,Ilagay mo kid,0,306000,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+1OzxlX5EePwsTAsHnWxj8x,Blue Jeans,37,259200,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+2zO7JEEKgMKHBSj4fRkTzl,I'm Feeling Sexy Tonight,0,327426,07oR3xogzd6SgvVoccS48z,Chona Cruz,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0bFATMUiZOpzWhny5zIew1,"Beh, Buti Nga",26,163346,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+2Kx7qmhVpfncuuO0s70yCu,Babae,0,289493,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+0CRfLcjc4xjtEhpHSUhUdX,"Si Aida, Si Lorna, O Si Fe",32,194666,0U5hMSpWpwMhB4VFnbfGFO,Marco Sison,1,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+2JtgMudpSX9xfJuPaivInm,Iskul Bukol,0,229000,"['3OSzG0HBTJVnfSaLEAJlXH', '4P1hORF3ZMCAjQ0U3f1SpU']","['Tito', 'Vic & Joey']",2,5g5ePoBrVopbFVBVjpvgft,OPM Dance of the 80's
+6YSmQXJmGZ3Ry9artEOBlT,"Awitin Mo, Isasayaw Ko",0,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+0bNrni9Tt3ENzWBALupQCr,Ikaw Ang Aking Mahal,0,201400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+5h5u9BTx7TFzXHjryyj63X,Disco Fever,0,215826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+51jLftm7VULcIwRAphuiYP,Rock Baby Rock,0,230706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+2t6YiHNBqisNpQp5CtMIKm,Swing,0,255960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+6ojixXdoBxg6FPnNwsp5QW,Legs,0,321226,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+73A8U2bdhDtEpDJJUobrna,Katawan,0,367506,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+0DzGcsiC8pSsT0QeQrtGWr,Nanggigigil,0,280986,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+1Tkhm5WPMAARlFxXF3l6KL,Babae,0,287960,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+7uYpM2elKqXp2FO5deznBC,Bintana,0,258519,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+1OBYSIL7In6WWkgtLS1rnx,Lalake,0,265720,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+6lCeZ0yzbOQfQMbXtRVQTQ,Magsayawan,0,186866,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+3lLdIbqBIHjOtszyDXMtiX,Macho Gwapito,0,180386,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+6r5RSOlSDC5pbDtSMYFFUe,Kumusta ka,0,174586,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+6D5TcPQCvQNpsAVz1c6j2M,May I have this dance,0,239066,5pHl48Qt0o8R9bz2Za1Og2,Vic Sotto,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+2aHJ3zxcfolcvgrP14TSDB,Bakit Labis Kitang Mahal,53,223921,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+3pgyLh4pO79wtecE0FIqDi,Kahit maputi na ang buhok ko,0,204973,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+4Idkb7D7CQ72EosX1jfGxi,Magnifica,0,267000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+0frgO8JpfsUDT6WJiphcey,"Step No, Step Yes",0,169573,1JygQfeB7OmzophGsgNwSb,VST & Company,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,683AARhX2MOsv42MmDki2M,70s OPM Dance Hits
+1FB38QuutF3OCfmTwX5OdD,Manila,0,180333,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0kVCnvUcvkTDzwMj1FT3eg,Disco fever,0,215813,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0Hcq4yIWh7Zlsynq8mxG8C,Katawan,0,366840,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3UrBHWGmmID54VDSZn116r,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0eLyXgZjJF4CB5Fy16a8Lw,You'll always be my number one,0,236533,5GXgyFTlhS8r70oIrOkutb,Vernie Varga,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+1byUeRVTIU1bkqGkEIDITG,I-swing mo ako,0,171733,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2dsMR11aapObCMpjNFxYLN,"Awitin Mo, Isasayaw Ko",0,278960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0m7ZGgr9baXIaO9AQlc7kK,Bonggahan,0,225026,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+43SlzMbYLKz8CRugupTwv1,Blue Jeans,25,261706,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+5GMyYDPAowISXa36Tx9I9Q,"Awitin Mo, Isasayaw Ko",1,277706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3St5hInMzv75DQN8DKAlWs,Rock Baby Rock,0,230706,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0fwhfo6jnmCwgPldEWE0Us,Magsayawan,0,184733,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3N62C2NU0mM7YPAiZhSv6Y,Swing,0,255960,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0frgO8JpfsUDT6WJiphcey,"Step No, Step Yes",0,169573,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+6b2prKpK82gaI1mVT8Frqz,Kiss… kiss,0,251106,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+271wAzFomxQKKLk3maedho,Macho-Gwapito,0,182506,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+037VNiaoQ5um3zayGqMiLB,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0rxHJznkwYizh1C4on9Bad,Yugyugan Na,26,151185,4Ubb1fu2ERYr9YzPFKKQfU,The Advisors,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+5oMA7rqgkS5NlJgDRvIqZz,Di Bale Na Lang,25,346813,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+5z1cHXrRZW4Gdon2f9AnZE,Eto Na Naman,26,230574,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2NY0s2PotuPGbj4nLzuY3Q,Look In Her Eyes,20,271580,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+4EFinQKVMVKnPqIU6RZbWO,Mga Kababayan,42,322040,1ayiGn4MLc427PozR13p1y,FrancisM,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+1pinYIZET5uZF4mise4FNU,Man from Manila,26,234762,1ayiGn4MLc427PozR13p1y,FrancisM,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2HchCK6Cjs3pZJAOeHeEuB,Plpease don't throw my love away,0,256613,4LTJwj8UNLy3ApvH7XUiiq,Martin Nievera,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+4VrgbU8hFgrbsXzU7IcJ4Q,Tuloy pa rin ako,0,252333,31oMMIBDMM2Z1RQO7u8irE,Side A,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3PEXEZytWNnFpPzaCMtWT2,Perfect,42,257053,6RV3CKY0UJIPKXyGs85Thm,True Faith,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3HG8jfThMcKscyLapYElUA,Alaala,38,205453,6RV3CKY0UJIPKXyGs85Thm,True Faith,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+6SHSvo6OGgpneKfsxFGhhk,Ligaya,60,271162,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2MGU31AGpyUNNNGZE1Qz5j,Dance Hits Medley: Di Bale Na Lang,11,203826,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+3bm5MX66bMQcmV2P45NFAd,Hataw Na (Club Mix),14,473269,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+55h7vJchibLdUkxdlX3fK7,Treasure,80,178560,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+7kewhyNtyyS2FS5GxS0KNu,"My Banyo Queen (ah-ah, umh-umh) featuring: Rica Peralejo",0,350853,6TcTgRYJBQzadIFeXXWA3I,Andrew E.,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+45DvDTnNJQEnVPBqXXAh7X,Modelong Charing,0,220706,5qHnDjdfxuRutgUbv1nf6f,Blakdyak,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0r4ntnBbIFueu9Cd3bcyF5,The Spageti Song (feat. Joey De Leon),41,231640,"['4HuN4J7CJxP3Y3FizjNxXa', '204rRUtZ6aVfefn4b0DW62']","['Sexbomb Girls', 'Joey De Leon']",2,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+5nu0Fdz2J2qL292uHJJEzo,Answer The Phone,35,198320,4PINIuQ6zcjifa1Nw3btfR,Roxie,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+4T7CM071eEoHudiDShZlCJ,Tala,3,245053,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+66SKMOTNm0w3IyrhWFCzCV,Nanggigigil,0,282333,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+672c0D151qVsLSbwsYe3bo,Stupid Love performed by Salbakutah,0,324586,6TcTgRYJBQzadIFeXXWA3I,Andrew E.,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0HsCKSKiEEHkQWmLfaaNyV,Ang Gaan Ng Feeling,30,191160,4x3QdbtnGEOCHaZeAPCn21,Geneva Cruz,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+03J3I8n0aTTbi6TwzRPx2W,Kapag Tumibok Ang Puso,0,242000,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0bFATMUiZOpzWhny5zIew1,"Beh, Buti Nga",26,163346,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+4NRRZey2dx5p4RMx9ZcAba,Babaero,11,71749,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+5A5JrQ21VoPkhIghqVcJoS,Mambobola,0,264693,5E5sr7RkHU6tdxk5G8zF4A,Zsa Zsa Padilla,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+1GNcZErSrwbJO0AaNA3a8v,Mr. Disco,31,242066,3lAC3q0zkzBypNwjBLBvFx,Manilyn Reynes,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+0mV4WkpL7OHdmmLxBDQIRL,Yugyugan Na - 2005 Digital Remaster;,34,207800,0WgggXT26SjnWxvq8IHjXC,P.O.T.,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2DYuRUD7jYCxQXnv8Kmciz,Nosi Ba Lasi,45,258573,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+7gMgPpuKn7pq7V39wLwGec,Manila Girl,43,177098,5YLXhjQdVWkWgW3LEojsrh,Put3ska,1,5zmHHroYBivRFw9aP26xRN,OPM DANCE
+2n1TJruYCSsiWL4wUojeDr,"Awitin Mo, Isasayaw Ko",0,279333,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4LmFbVr0exXOwaaokq8uqQ,Magsayawan,0,187000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6u6QRD49NH71kiwNQM1ez7,Sumayaw Sumunod,51,197407,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1ntStv6ufp9GOAL62OUnaK,No Touch,0,161666,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+45PkLXO3enxMoo4MVid5Zm,Babaero,0,315506,05QLUMCFhUj7MAtXVPsvPR,Randy Santiago,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6ERkZrrEbom8UiyIi3NiFV,Beep Beep,0,273560,6oDv9jvnizh7RgEHbOwxLK,Juan Dela Cruz Band,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0KlJjhnfwAnPacNd7EH45J,Always Something There to Remind Me,26,218933,3C6chBmZ9wzisBhoh8G2nK,Naked Eyes,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2AkmdLbVKS1steeZdy8H1l,I Want To Break Free - Single Remix,74,258013,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1HOMkjp0nHMaTnfAkslCQj,My Sharona,76,295400,0Nn9YwJzcaeuU1jJL06e3r,The Knack,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3ClOMebBxeNTYCOfTH24YJ,Le Freak - 2018 Remaster,55,331360,0Xf8oDAJYd2D0k3NLI19OV,CHIC,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5uuJruktM9fMdN9Va0DUMl,Play That Funky Music,72,300000,4apX9tIeHb85yPyy4F6FJG,Wild Cherry,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4Gnl12vioGd6lgIjeYcMCl,Mickey,54,253199,59hMeIYY3k3NoX54rrVGPv,Toni Basil,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0ikz6tENMONtK6qGkOrU3c,Wake Me Up Before You Go-Go,80,231333,5lpH0xAS4fVfLkACg9DAuM,Wham!,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,80,238266,2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),82,291293,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4M7Z5H89JEah5I2TUPIvg1,Disco Fever,0,218400,1JygQfeB7OmzophGsgNwSb,VST & Company,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0GjEhVFGZW8afUYGChu3Rr,Dancing Queen,83,230400,0LcJLqbBmaGUft1e9Mm8HV,ABBA,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5zA8vzDGqPl2AzZkEYQGKh,Uptown Girl,80,197706,6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4pxfRRSEn8EfgZWcN3IgL8,Walking on Sunshine - 2004 Version,57,216000,2TzHIUhVpeeDxyJPpQfnV3,Katrina & The Waves,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5GRCzTW8NmhzPqDM5H9aKz,Name Game,41,290293,4463nfFMmK1cwAWBQDwT5e,Laura Branigan,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1W7YmZo84Aed1RLARutgw3,Billie Jean,3,296026,53oVGLvrHE00lvhQ5BVLdf,Footloose,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1pq64QSab2k1dtAaoNpdwA,Let's Groove Tonight,48,229800,"['43VnQZzDcGZGesUUyUVLd4', '4xSXMAsZJNmKPqRwg6lOQI']","['Larry D', 'The Sly Guys']",2,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3ypMsqUwfNFMiooMLVHfkp,YMCA,67,202573,0dCKce6tJJdHvlWnDMwzPW,Village People,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7eiP7dsQZybO0vw2jGJvWC,Six Two Eight - 628,47,485093,"['0IQroZPfZydynCiCsINt5l', '1UjBiaIMWljRl5ez5Zp83m']","['Europe', 'Karisma']",2,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2wSAWEYUHkt92X4SBAPqZE,Karma Chameleon - Remastered 2002,75,252773,6kz53iCdBSqhQCZ21CoLcc,Culture Club,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3cijWAljXxxJDco4N2aLQl,Lança Perfume,50,310760,"['7dnT2FUXhjirperXaH22IJ', '4w4ll81d0dR8gz989jjko1']","['Rita Lee', 'Roberto De Carvalho']",2,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5f22DmcDGpsaG5RbUzVRow,I Will Survive - Extended Version,54,481813,6V6WCgi7waF55bJmylC4H5,Gloria Gaynor,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3K7Q9PHUWPTaknlbFPThn2,Celebration,72,298866,3VNITwohbvU5Wuy5PC6dsI,Kool & The Gang,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+05wIrZSwuaVWhcv5FfqeH0,Walking On Sunshine,80,238733,2TzHIUhVpeeDxyJPpQfnV3,Katrina & The Waves,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5IKLwqBQG6KU6MP2zP80Nu,We Are Family - 1995 Remaster,72,216733,6gkWznnJkdkwRPVcmnrays,Sister Sledge,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3hWOGUIOcqKDoVpFBLp9Qc,Copacabana (At the Copa),57,241346,3alW3LYQS8K29z8C8NSLIX,Barry Manilow,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6MTd61g9zq6CB1FnJydjEb,Sugar Sugar,69,167213,33QmoCkSqADuQEtMCysYLh,The Archies,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7g4ktu4ws4tRbthLqzzZQw,September,36,234375,4qnALvg7FKYheoRPyiXzc1,Ruby Brothers,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2pX5qSgxQFwlrkjxph8fxb,The Loco-Motion,62,193920,4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4zH6dB5VUvQxuPzy19zJqp,I Love The Nightlife (Disco 'Round),49,200360,1UY4oIFpjCKe5qIhKDcloe,Alicia Bridges,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland,76,288293,"['4QQgXkCYTt3BlENzhyNETg', '64CuUOOirKmdAYLQSfaOyr']","['Earth, Wind & Fire', 'The Emotions']",2,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+22ff60cZy4APp7bzESHLR8,Disco Inferno - Single Edit,53,191533,1zgNpeHQe8GulzfVkYP2VK,The Trammps,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4UQH52FfgGpzDShKDbBvEA,Forget Me Nots - Remastered,66,284506,1mNnxxnPfHQDOkFjnZmdkc,Patrice Rushen,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3LDefGtx6L0wV6u8zckjUu,A Night to Remember - Single Version,56,211253,3REpOYo13YkVj1dFzda12A,Shalamar,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3PR79C1jVvLLLmgdyHkXl3,That's the Way (I Like It) - 2004 Remaster,62,185106,3mQBpAOMWYqAZyxtyeo4Lo,KC & The Sunshine Band,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5yGTQzYbEdY6B9RFZJypgt,Rhythm Of The Night,67,229106,6is2U7I1jlI8PjxNZOHIMV,DeBarge,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1srD2uc11TcQiOmHHrJp8M,Reasons,57,299333,4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2u8MGAiS2hBVE7GZzTZLQI,I'm So Excited,65,229466,2kreKea2n96dXjcyAU9j5N,The Pointer Sisters,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+55OjNE2lCUX19YsiwjmtYX,Super Freak,0,204413,0FrpdcVlJQqibaz5HfBUrL,Rick James,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7yBl8YmvcgwwYlazJcvowE,Fame,0,316066,3oZa8Xs6IjlIUGLAhVyK4G,Irene Cara,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7obdw7ZGr6l1GqSBkFiY11,Macarena - Bayside Boys Remix,56,252133,2JXn03fudjyRkQ1Ye9f5rk,Los Del Rio,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6x4tKaOzfNJpEJHySoiJcs,Mambo No. 5 (a Little Bit of...),77,220293,46lnlnlU0dXTDpoAUmH6Qx,Lou Bega,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+08JKuFJCHJVw1SgHHjwsS9,Talking in Your Sleep,46,234866,3daM7asS0gCFvyLemNx2EE,The Romantics,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1B75hgRqe7A4fwee3g3Wmu,U Can't Touch This,74,257360,2rblp9fJo16ZPTcKDtlmKW,MC Hammer,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5vdp5UmvTsnMEMESIF2Ym7,Another One Bites The Dust - Remastered 2011,82,214653,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1ot6jEe4w4hYnsOPjd3xKQ,I'm So Excited,72,230640,2kreKea2n96dXjcyAU9j5N,The Pointer Sisters,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0qi4b1l0eT3jpzeNHeFXDT,Just Can't Get Enough,72,220893,762310PdDnwsDxAQxzQkfX,Depeche Mode,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1TfqLAPs4K3s2rJMoCokcS,Sweet Dreams (Are Made of This) - Remastered,82,216933,"['0NKDgy9j66h3DLnN8qu1bB', '5MspMQqdVbdwP6ax3GXqum', '7gcCQIlkkfbul5Mt0jBQkg']","['Eurythmics', 'Annie Lennox', 'Dave Stewart']",3,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6pyzBTIjcO2AMkKE6x2Otb,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",0,285373,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,85,225280,2jzc5TC5TVFLXQlBNiIUzE,a-ha,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4uLU6hMCjMI75M1A2tKUQC,Never Gonna Give You Up,4,213573,0gxyHStUsqpMadRV0Di1Qt,Rick Astley,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+01iyCAUm8EvOFqVWYJ3dVX,Dancing Queen,0,230400,0LcJLqbBmaGUft1e9Mm8HV,ABBA,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+28NBmftocOzTPEb6OYA9fW,Le Freak,0,327573,0Xf8oDAJYd2D0k3NLI19OV,CHIC,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6pc8xULSlsMdFB3OrqbvZ4,Celebration - Single Version,0,215653,3VNITwohbvU5Wuy5PC6dsI,Kool & The Gang,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7N3PAbqfTjSEU1edb2tY8j,Jump - 2015 Remaster,79,241599,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1xPSDf8z4dH46gkvlLtvDO,Maniac,0,244706,771qBvjnXOH9Azr6lKy6FB,Michael Sembello,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4jDmJ51x1o9NZB5Nxxc7gY,Careless Whisper,80,300106,19ra5tSw0tWufvUp8GotLo,George Michael,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4t2euPkyLUs5n5j1HDZ2Tr,Night Fever,0,212253,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0CsM8VGDi38kusMv3pxyj1,True - Single Edit,70,329146,2urZrEdsq72kx0UzfYN8Yv,Spandau Ballet,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5wiu4PUC6CLNNbC48vqGOb,Celebration,0,298866,3VNITwohbvU5Wuy5PC6dsI,Kool & The Gang,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0ew27xRdxSexrWbODuLfeE,I'm Coming Out,2,325266,3MdG05syQeRYPPcClLaUGl,Diana Ross,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5TXAySV8WBjAIMg3lPDCLN,Shout,0,392675,4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7GK2KVYH8FrTC9zehmjVMd,Ring My Bell,62,491933,3Dd6jD1AApgtNoU6SJWR7P,Anita Ward,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+22sLuJYcvZOSoLLRYev1s5,Material Girl,77,240280,6tbjWDEIzxoDsBA1FuhfPW,Madonna,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0G3fbPbE1vGeABDEZF0jeG,Good Times,65,495400,0Xf8oDAJYd2D0k3NLI19OV,CHIC,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7Di7t9yGoxdZRLAt5a4pi0,Manic Monday,63,184173,51l0uqRxGaczYr4271pVIC,The Bangles,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+57Fb4ssvtUDe00VaxgjhUb,YMCA,0,286800,0dCKce6tJJdHvlWnDMwzPW,Village People,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+76QJgXPE3oc1cnkE4PFHEn,Together Forever,0,205533,0gxyHStUsqpMadRV0Di1Qt,Rick Astley,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6c0G8K6G2LlIfJTsRLJjfs,I Love The Nightlife (Disco 'Round),53,187973,1UY4oIFpjCKe5qIhKDcloe,Alicia Bridges,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4NH4xiPQ7TqNGqj6pZV4ki,Karma Chameleon,66,242200,6kz53iCdBSqhQCZ21CoLcc,Culture Club,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2vz1CsL5WBsbpBcwgboTAw,"Footloose - From ""Footloose"" Soundtrack",75,226826,3Y3xIwWyq5wnNHPp5gPjOW,Kenny Loggins,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4msYO7EOWx0tgy47uzlvCJ,Funkytown - Single Version,0,236733,0lwRI7lvmlRY5DiA5Xa6wQ,Lipps Inc.,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0s45sL9DLOcro6VbmagQKl,Rock the Boat,45,186706,6PpGPIrFf3LM7Q77eR4Bts,Hues Corporation,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+028r3igL3M00VdRCe2Ga7Q,Maneater - Radio Edit,46,270946,77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5XsMz0YfEaHZE0MTb1aujs,Wake Me Up Before You Go-Go,0,230693,5lpH0xAS4fVfLkACg9DAuM,Wham!,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0iWwkQs3R3xblFdsstTkos,"De Do Do Do, De Da Da Da - Remastered 2003",40,248333,5NGO30tJxFlKixkPSgXcFE,The Police,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3N47G9kLMXq0edKgXFuc0R,On ne s'aimera plus jamais,48,227933,07sMHU0vu01xrz1gnNrNry,Larusso,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3N47G9kLMXq0edKgXFuc0R,On ne s'aimera plus jamais,48,227933,07sMHU0vu01xrz1gnNrNry,Larusso,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3iSws76HjaU7k49EqJVTfF,"Sugar, Sugar",66,167186,33QmoCkSqADuQEtMCysYLh,The Archies,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6sPOmDulFtLzfX25zICNrC,Build Me Up Buttercup - Mono,74,177533,4GITZM5LCR2KcdlgEOrNLD,The Foundations,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+0uMMLry3hzWGn3q3loqMkm,La Bamba,68,174186,6OWapcJm9xd55ci9CYbAuT,Los Lobos,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3FdHgoJbH3DXNtGLh56pFu,Conga!,65,254000,18xgcedCGxFbqLbIQn5R8F,Miami Sound Machine,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5ZBeML7Lf3FMEVviTyvi8l,Twist And Shout - Remastered 2009,75,155226,3WrFJ7ztbogyGnTHbHJFl2,The Beatles,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+3yDhZq8f17SmumVmEyCaRN,Give It Up,68,254240,3mQBpAOMWYqAZyxtyeo4Lo,KC & The Sunshine Band,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+48i055G1OT5KxGGftwFxWy,"Oh, Pretty Woman",73,178933,0JDkhL4rjiPNEp92jAgJnS,Roy Orbison,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+5haXbSJqjjM0TCJ5XkfEaC,I Got You (I Feel Good),72,165800,32r72WOqqRO1DtSznId7Lr,James Brown & The Famous Flames,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4iCyp2hqIqT93IbPiPB5Mh,Stars On 45 - 7 inch version - Remastered,39,290948,4r8b3Hr0AMhzhAg75le0Gx,Stars On 45,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+1kIu9zpYtWjgrLlsactlna,Jump (Original Mix),63,262560,2kreKea2n96dXjcyAU9j5N,The Pointer Sisters,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+6SGM3JqOcMqea0WQSO31Hx,Super Freak,38,203973,01CONshnyEfPUMMdGTL6sZ,SUPERfreak,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+7s3FSodLpnKMzeMj17G5d0,That's the Way (I Like It),50,306146,3mQBpAOMWYqAZyxtyeo4Lo,KC & The Sunshine Band,1,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+2JCTiiJQFWQNC0Zp8rsJRB,(I've Had) The Time Of My Life,67,289066,"['1XE70WwxhnrXNAJYQQ9ygx', '1BwHztAQKypBuy5WBEdJnG']","['Bill Medley', 'Jennifer Warnes']",2,2HJ2ONHErPunDYLv42jGY8,80’s OPM DANCE MUSIC
+4bujrcFCsjzpKDBLNd1bO5,'Wag Mo Na Sanang Isipin,24,304831,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+5oMA7rqgkS5NlJgDRvIqZz,Di Bale Na Lang,25,346813,0RHiqaoRCsFLPeEuj3OQz4,Gary Valenciano,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+5PiiwyHh3fh96ON64WjHH3,May I Have This Dance,0,228493,1JygQfeB7OmzophGsgNwSb,VST & Company,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+7J4yK0o3Dh8rOq8KtkwqX9,Pakita Mo,0,279840,7xQlpD9NySrgqK9mAhOGxm,Archie d.,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+4GG9zkmCfN0ESxXyErHfep,Ale,26,273066,2hk1NCZ5BypYFAaygX8Ilu,Richard Reynoso,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+5A5JrQ21VoPkhIghqVcJoS,Mambobola,0,264693,5E5sr7RkHU6tdxk5G8zF4A,Zsa Zsa Padilla,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+1GNcZErSrwbJO0AaNA3a8v,Mr. Disco,31,242066,3lAC3q0zkzBypNwjBLBvFx,Manilyn Reynes,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+4k7K36V0NxVwr38hQVYBnw,Dito Sa Puso,12,279353,1vlz5PDUCNuZJeuJoufQkN,Ogie Alcasid,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+2zO7JEEKgMKHBSj4fRkTzl,I'm Feeling Sexy Tonight,0,327426,07oR3xogzd6SgvVoccS48z,Chona Cruz,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+45PkLXO3enxMoo4MVid5Zm,Babaero,0,315506,05QLUMCFhUj7MAtXVPsvPR,Randy Santiago,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+6IA5SB14gD7wclnqTW1u0h,Dance with Me,31,222406,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+3XSUrGa2uFUk0hsRf7PohZ,Urong-Sulong,0,209493,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0pUFUzbAL6DyASfiWgq6IW,"Sumayaw, Sumunod",15,223293,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+7ADX1hXl4eB9Qqkjp5bkQy,Annie Batungbakal,39,196560,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+1IJ3lFNHkmsd1unfOzhpBu,Macho-Gwapito,0,182506,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+711uAyufCK44a9XZlD35vB,Disco Fever,0,215826,1JygQfeB7OmzophGsgNwSb,VST & Company,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+44DFYt0ybr09tBuSdgXQ0e,"Awitin Mo, Isasayaw Ko, Katawan, Rock Baby Rock, Tayo'y Magsayawan - OPM Dance Suite",32,398386,"['5pHl48Qt0o8R9bz2Za1Og2', '204rRUtZ6aVfefn4b0DW62', '0ShRjC0zeITfzfuMYcvuEW', '3e5vfyOzKWkvhndSINSncR', '2lXnAsBWMKIMH2h2KdfOpA', '1UBtquuUSFe0uhz662TicE', '5yVM85m9yNcHO6o0vaaVxW']","['Vic Sotto', 'Joey De Leon', 'Mike Hanopol', 'Charo Unite', 'Ernie Dela Pena', 'ABS-CBN Philharmonic Orchestra', 'Daniel Padilla']",7,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0EZn21vZKfUz7zaEVVlxsq,Legs,0,322666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+66SKMOTNm0w3IyrhWFCzCV,Nanggigigil,0,282333,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+1s4r5fwkBFuFDeUdR1umx7,Bongga Ka Day,42,217133,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+6n5xIguEx7BCkL9VUQttTm,Rock Baby Rock,0,241000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+7oOIs6pzk5fMql78Lgs4Pi,Bonggahan,0,223826,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+63MRgdqrhUnmhWNNpsCgjk,Katawan,0,368666,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+1QVWRQ0BO4G1B4DgFjrACF,Mamang Sorbetero,39,190666,20gOeXI8NLUKdSr9Z4YeD6,Celeste Legaspi,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+6tuDAghuL3WOHxt2GEzxVV,Mr. Kupido,40,221152,4oMk1QJuMWUWrNmchRJGWL,Rachel Alejandro,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+39BPTbwYMdIUKFNQRk0lGZ,Mr. Dreamboy,38,183426,6AJaJ5zqRERdOeuhnQ4Idh,Sheryl Cruz,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+5eR4bopJWb9x9CeY16VgjD,Manila,37,174160,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+2Kx7qmhVpfncuuO0s70yCu,Babae,0,289493,7JJ3NfHRSDv3d6IBBGxtMH,Hagibis,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+4nHaxoW9jK2BqJw8Wk2hfB,Laguna,0,324053,1KoRj2ZFjBc0xgcgMNBMIX,Sampaguita,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0cfQyjxj9wY5NKVzNOURoZ,Bikining Itim,26,169575,6xUh63jpjIRA6N3heQWWhd,Bert Dominic,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0sxzBNCIfWG6nD04MGUR49,Disco Medley,19,299253,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0C8ARs4OS9bgZUgyW9x6Ye,Kiss…Kiss,0,255000,1JygQfeB7OmzophGsgNwSb,VST & Company,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0pobQmvHou3syiOi6DRqiC,Manila,1,184146,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0CLujct6Q9Ssui8YXUrO6D,Doo Bidoo,28,241093,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+7tdJOhwyZU7xXBh3EMLib0,Bongga Ka Day,13,175346,"['3q3KaCLCZ4qaaeLC1BbZ6J', '4z70i3ZzKWXDjrmY9RFCEv']","['RJ Jacinto', 'Rene Garcia']",2,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+03J3I8n0aTTbi6TwzRPx2W,Kapag Tumibok Ang Puso,0,242000,4kl1LM3rjWg83OBrmNlzOZ,Donna Cruz,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+2SMGehPAfq4P1zQqIMOKh8,Lagot Ka,27,223160,1JerI7MBqgTmPwFT0RpGS2,Masculados,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+0W2WLMWqiHpXxUpUzO9QQC,Jumbo Hotdog,46,147653,1JerI7MBqgTmPwFT0RpGS2,Masculados,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+5e4u9Drd0MQbuaHIDOQnNv,Langit Na Naman,32,180880,4sEykiNSzZbkFkNXTb1bVd,Hotdog,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
+1HoYgxojIWLkFXn23pL75y,Ikaw Ang True Love Ko,39,224866,6AJaJ5zqRERdOeuhnQ4Idh,Sheryl Cruz,1,1PMyf6r6xZOJwEOFwn3NBo,Old OPM Dance Hits
